@@ -9,8 +9,17 @@ The goal of this project is to do an exploratory data analysis of housing data f
 The repository is structured as follows:
 
 - `data/` -- Contains the raw data files.
+    - *cleaned_01.csv* -- The cleaned data file. Removed rows with missing values and outliers.
+    - *cleaned_02.csv* -- The cleaned data file. Imputations for missing values and outliers.
+    - *housing.csv* -- Raw data file.
+    - *joined.csv* -- The cleaned data file including missing values and outliers.
+    - *schools.csv* -- Raw data file.
 
 - `notebooks/` -- Jupyter notebooks used for data cleaning and initial analysis.
+    - *annot_eda.R* -- R notebook with annotated EDA used in final report.
+    - *join_clean.ipynb* -- Jupyter notebook used to join and clean the data.
 
 - `reports/` -- Final report including annotated R file.
+    - *final_report.docx* -- Final report in Word format.
+    - *prj_desc_final.pdf* -- Provided project description.
 
