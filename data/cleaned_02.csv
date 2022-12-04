@@ -1,0 +1,684 @@
+neighborhood,beds,baths,sqft,lotsize,year,type,levels,cooling,heating,fireplace,soldprice,elementary,elementary_size,elementary_rating,middle,middle_size,middle_rating,high,high_size,high_rating,pct_built
+Red,6,4.0,4233.0,0.88,1926,single-family home,1,No,No,No,1289000,Cougar Elementary,800,5,Wolf Middle,700,2,Alpine High,1250,4,11.042762334084648
+Red,1,1.0,748.0,0.11,1985,condo,1,No,No,No,499000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,15.610651974288336
+Red,3,2.0,2001.0,0.23,1945,condo,1,No,No,Yes,573000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,19.97245179063361
+Red,6,3.5,4454.0,0.43,1938,single-family home,2,No,No,Yes,1246000,Lynx Elementary,600,3,Coyote Middle,900,4,Crevasse High,750,1,23.779016379439213
+Red,4,3.0,2004.0,0.35,1959,single-family home,1,No,No,No,1250000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,13.144431326249508
+Red,4,2.5,1808.0,0.19,1914,single-family home,2,No,No,Yes,1229000,Lynx Elementary,600,3,Coyote Middle,900,4,Crevasse High,750,1,21.8452467256295
+Red,3,2.0,1898.0,0.36,1923,townhouse,1,No,No,Yes,581000,Cheetah Elementary,850,4,Wolf Middle,700,2,Crevasse High,750,1,12.103356800326498
+Red,3,1.0,1995.0,0.19,1909,single-family home,2,No,No,Yes,1048000,Lynx Elementary,600,3,Coyote Middle,900,4,Crevasse High,750,1,24.104683195592287
+Red,6,3.5,3245.0,0.41,1984,townhouse,1,Yes,Yes,No,1035000,Lynx Elementary,600,3,Coyote Middle,900,4,Alpine High,1250,4,18.169499876816953
+Red,3,1.5,1925.0,0.28,1944,single-family home,1,No,No,No,1080000,Lynx Elementary,600,3,Coyote Middle,900,4,Crevasse High,750,1,15.782828282828282
+Red,2,1.0,1287.0,0.17,1936,townhouse,1,No,No,Yes,485000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,17.379679144385022
+Red,4,2.5,2609.0,0.46,1961,townhouse,1,No,No,No,794000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,13.020521419730905
+Red,6,3.0,4764.0,0.91,1925,single-family home,1,No,No,Yes,1266000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,12.018284745557473
+Red,3,2.0,1400.0,0.15,1937,condo,2,No,No,Yes,560000,Lynx Elementary,600,3,Wolf Middle,700,2,Crevasse High,750,1,21.4263850627487
+Red,4,1.5,2031.0,0.13,1911,townhouse,2,No,No,Yes,664000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,35.865649502013135
+Red,3,2.0,1771.0,0.17,1908,condo,2,No,No,Yes,538000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,23.915626856803325
+Red,3,1.5,1725.0,0.3,1914,townhouse,1,No,No,Yes,569000,Cougar Elementary,800,5,Coyote Middle,900,4,Alpine High,1250,4,13.20018365472911
+Red,4,1.5,1845.0,0.11,1981,townhouse,2,Yes,No,No,732000,Cougar Elementary,800,5,Coyote Middle,900,4,Crevasse High,750,1,38.50488354620586
+Red,5,2.0,2238.0,0.14,1955,single-family home,2,No,No,No,1202000,Lynx Elementary,600,3,Coyote Middle,900,4,Alpine High,1250,4,36.69815033451397
+Red,2,1.0,1064.0,0.24,1974,single-family home,1,No,No,Yes,1181000,Cheetah Elementary,850,4,Coyote Middle,900,4,Crevasse High,750,1,10.177532904805632
+Red,3,1.5,1280.0,0.24,1945,single-family home,1,No,No,Yes,1224000,Cougar Elementary,800,5,Wolf Middle,700,2,Alpine High,1250,4,12.243648607284971
+Red,1,1.0,536.0,0.12,1977,townhouse,1,Yes,No,No,573000,Cheetah Elementary,850,4,Coyote Middle,900,4,Crevasse High,750,1,10.254055708601163
+Red,3,2.0,1669.0,0.11,1963,single-family home,2,No,No,Yes,1315000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,34.83178896402037
+Red,1,1.0,781.0,0.1,1975,single-family home,1,Yes,No,No,1112000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,17.929292929292927
+Red,1,1.0,779.0,0.14,1940,townhouse,1,No,No,No,458000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,12.773842319296863
+Red,4,3.0,3060.0,0.5,1940,single-family home,1,No,No,Yes,1407000,Cougar Elementary,800,5,Wolf Middle,700,2,Alpine High,1250,4,14.049586776859504
+Red,3,1.0,1616.0,0.21,1942,condo,2,No,No,Yes,560000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,17.66583584765403
+Red,6,3.0,3151.0,0.2,1980,single-family home,2,Yes,No,Yes,1618000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,36.168503213957756
+Red,5,4.0,3376.0,0.48,1977,single-family home,2,No,No,No,1284000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,16.146311600857054
+Red,3,1.0,1662.0,0.2,1932,condo,1,No,No,Yes,595000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,19.077134986225897
+Red,4,2.0,2636.0,0.34,1935,single-family home,1,No,No,Yes,1332000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,17.798303894560576
+Red,5,4.0,3546.0,0.9,1980,condo,1,No,No,No,912000,Bobcat Elementary,600,1,Coyote Middle,900,4,Alpine High,1250,4,9.044995408631772
+Red,4,3.0,2206.0,0.9803152899590207,1980,single-family home,2,No,No,No,1223000,Lynx Elementary,600,3,Coyote Middle,900,4,Alpine High,1250,4,
+Red,4,1.0,2603.0,0.75,1982,single-family home,1,No,Yes,Yes,1339000,Cougar Elementary,800,5,Coyote Middle,900,4,Crevasse High,750,1,7.967554331190694
+Red,3,2.0,1295.0,0.12,1980,single-family home,2,No,No,No,1317000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,24.774257728803185
+Red,1,1.0,,0.15,1943,condo,1,No,No,No,321000,Lynx Elementary,600,3,Wolf Middle,700,2,Crevasse High,750,1,
+Red,2,1.0,1326.0,0.18,1948,condo,1,No,No,Yes,577000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,16.911539638812368
+Red,4,3.0,2850.0,0.16,1962,single-family home,2,No,No,No,1166000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,40.891873278236915
+Red,3,1.0,1415.0,0.09,1954,single-family home,2,No,No,No,1161000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,36.09325579022549
+Red,4,2.0,2413.0,0.17,1950,single-family home,2,No,No,Yes,1442000,Cougar Elementary,800,5,Coyote Middle,900,4,Crevasse High,750,1,32.58521039269702
+Red,3,1.0,2019.0,0.39,1952,condo,1,No,No,Yes,560000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,11.884580066398247
+Red,3,1.5,2145.0,0.22,1930,condo,2,No,No,Yes,617000,Cheetah Elementary,850,4,Coyote Middle,900,4,Crevasse High,750,1,22.382920110192835
+Red,1,1.0,654.0,0.19,1936,townhouse,1,No,No,Yes,512000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,7.901986370885893
+Red,5,4.0,2557.0,0.42,1936,single-family home,1,No,No,No,1220000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,13.976343521798068
+Red,1,1.0,749.0,0.14,1946,single-family home,?,No,No,No,1009000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,12.281910009182734
+Red,2,1.0,1132.0,0.22,1966,condo,1,No,No,No,539000,Cheetah Elementary,850,4,Wolf Middle,700,2,Crevasse High,750,1,11.81233825861925
+Red,5,3.0,2865.0,0.25,1966,single-family home,2,No,No,No,1280000,Lynx Elementary,600,3,Wolf Middle,700,2,Crevasse High,750,1,26.30853994490358
+Red,2,1.0,1237.0,0.2,1976,townhouse,1,No,No,No,641000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,14.198806244260789
+Red,6,4.0,3829.0,0.27,1979,condo,2,Yes,No,No,787000,Lynx Elementary,600,3,Wolf Middle,700,2,Crevasse High,750,1,32.55620174812094
+Red,3,1.5,1921.0,0.12,1963,single-family home,2,No,No,Yes,1100000,Cheetah Elementary,850,4,Coyote Middle,900,4,Crevasse High,750,1,36.750076522803795
+Red,2,1.0,1237.0,0.17,1933,single-family home,1,No,No,Yes,878000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,16.704477934424457
+Red,6,4.5,4757.0,0.55,1966,single-family home,1,No,No,No,1478000,Bobcat Elementary,600,1,Coyote Middle,900,4,Alpine High,1250,4,19.85558059938225
+Red,1,1.0,717.0,0.16,1939,townhouse,1,No,No,No,446000,Cheetah Elementary,850,4,Wolf Middle,700,2,Crevasse High,750,1,10.287534435261707
+Red,3,1.5,1422.0,0.18,1963,single-family home,1,No,No,Yes,1240000,Cougar Elementary,800,5,Coyote Middle,900,4,Crevasse High,750,1,18.135904499540864
+Red,3,1.0,2010.0,0.31,1953,townhouse,1,No,No,No,597000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,14.884919577001687
+Red,2,1.0,1055.0,0.3,1940,single-family home,1,No,No,Yes,923000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,8.073155800428527
+Red,2,1.0,1260.0,0.22,1932,single-family home,1,No,No,No,937000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,13.148009015777609
+Red,5,3.0,2430.0,0.51,1939,townhouse,1,No,No,Yes,708000,Cheetah Elementary,850,4,Coyote Middle,900,4,Crevasse High,750,1,10.938259601361205
+Red,3,1.0,1696.0,0.43,1962,single-family home,1,No,No,No,1095000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,9.05460524910842
+Red,2,1.0,896.0,0.15,1973,single-family home,1,Yes,No,Yes,1243000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,13.712886440159167
+Red,4,1.0,2848.0,1.2656110361755626,1957,single-family home,2,No,No,No,1212000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,
+Red,3,1.5,1974.0,0.19,1983,townhouse,2,No,No,Yes,818000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,23.850949688270266
+Red,5,3.0,3549.0,0.25,1948,single-family home,2,No,No,No,1223000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,32.58953168044077
+Red,4,1.0,1946.0,0.25,1939,condo,1,No,No,Yes,673000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,17.869605142332414
+Red,1,1.0,648.0,0.19,1974,townhouse,1,Yes,No,No,457000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,7.8294910830796
+Red,4,3.0,2493.0,0.34,1963,single-family home,1,No,No,No,1367000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,16.832766164316965
+Red,3,1.5,1887.0,0.48,1985,townhouse,1,Yes,No,No,836000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,9.024908172635445
+Red,3,2.0,1955.0,0.32,1937,single-family home,1,No,No,No,1049000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,14.025195133149678
+Red,4,3.0,1998.0,0.29,1979,townhouse,1,Yes,No,Yes,763000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,15.816471929324594
+Red,3,1.0,1766.0,0.37,1932,condo,1,No,No,Yes,598000,Cougar Elementary,800,5,Coyote Middle,900,4,Crevasse High,750,1,10.957238229965503
+Red,6,5.0,3362.0,0.35,1949,single-family home,2,No,No,No,1612000,Cougar Elementary,800,5,Coyote Middle,900,4,Alpine High,1250,4,22.05168568804933
+Red,3,1.0,1497.0,0.38,1960,single-family home,1,No,No,No,1150000,Cheetah Elementary,850,4,Coyote Middle,900,4,Crevasse High,750,1,9.043787153835
+Red,3,1.0,1277.0,0.16,1941,single-family home,2,No,No,Yes,1177000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,18.322428833792472
+Red,2,1.0,1057.0,0.27,1931,single-family home,1,No,No,Yes,1108000,Lynx Elementary,600,3,Coyote Middle,900,4,Alpine High,1250,4,8.98717817909737
+Red,6,3.5,4005.0,0.61,1933,townhouse,1,No,No,Yes,897000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,15.072483403332882
+Red,3,1.5,1664.0,0.29,1958,condo,1,No,No,Yes,637000,Bobcat Elementary,600,1,Coyote Middle,900,4,Alpine High,1250,4,13.172477122320384
+Red,2,1.0,1232.0,0.19,1937,single-family home,1,No,No,Yes,983000,Cougar Elementary,800,5,Coyote Middle,900,4,Alpine High,1250,4,14.885699096225412
+Red,3,2.0,2044.0,0.15,1949,condo,2,No,No,No,566000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,31.2825221916131
+Red,2,1.0,1206.0,0.15,1981,townhouse,1,Yes,No,Yes,739000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,18.457300275482094
+Red,3,2.0,1997.0,0.14,1941,condo,2,No,No,No,559000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,32.74629410993047
+Red,4,1.5,1940.0,0.45,1944,townhouse,1,No,No,No,652000,Lynx Elementary,600,3,Wolf Middle,700,2,Crevasse High,750,1,9.896949290888685
+Red,3,2.0,1362.0,0.11,1934,condo,2,No,No,Yes,525000,Lynx Elementary,600,3,Wolf Middle,700,2,Crevasse High,750,1,28.424743300776356
+Red,1,1.0,673.0,0.13,1971,condo,1,Yes,No,No,426000,Cheetah Elementary,850,4,Coyote Middle,900,4,Crevasse High,750,1,11.884580066398248
+Red,1,1.0,635.0,0.2821850449338069,1985,single-family home,1,Yes,No,No,995000,Cougar Elementary,800,5,Coyote Middle,900,4,Crevasse High,750,1,
+Red,4,1.0,2657.0,0.34,1958,condo,1,No,No,No,566000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,17.940096148652295
+Red,3,1.5,2115.0,0.24,1949,single-family home,1,No,No,No,1143000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,20.230716253443525
+Red,2,1.0,1327.0,0.2,1975,single-family home,1,No,No,Yes,1148000,Cougar Elementary,800,5,Coyote Middle,900,4,Crevasse High,750,1,15.231864095500459
+Red,1,1.0,,0.1,1977,single-family home,1,Yes,No,No,1190000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,
+Red,3,1.5,1803.0,0.15,1942,single-family home,2,No,No,Yes,1257000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,27.5941230486685
+Red,4,1.5,2590.0,0.21,1950,single-family home,2,No,No,Yes,1203000,Lynx Elementary,600,3,Wolf Middle,700,2,Crevasse High,750,1,28.31343740434649
+Red,6,5.0,4684.0,0.28,1934,single-family home,2,No,No,Yes,1421000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,38.40351567624295
+Red,4,2.0,2546.0,0.21,1939,single-family home,2,No,No,Yes,1057000,Bobcat Elementary,600,1,Coyote Middle,900,4,Crevasse High,750,1,27.832436923346016
+Red,3,1.0,1293.0,0.13,1930,single-family home,2,No,No,Yes,1135000,Lynx Elementary,600,3,Coyote Middle,900,4,Crevasse High,750,1,22.833227378681922
+Red,1,1.0,775.0,0.1,1984,condo,1,No,No,No,579000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,17.791551882460972
+Red,6,4.0,4175.0,0.56,1975,single-family home,1,Yes,No,No,1462000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,17.115144956054046
+Red,5,2.5,3074.0,0.37,1955,single-family home,1,No,No,No,1276000,Cheetah Elementary,850,4,Wolf Middle,700,2,Crevasse High,750,1,19.07279180006453
+Red,6,3.5,4071.0,0.33,1955,townhouse,2,No,No,No,862000,Bobcat Elementary,600,1,Coyote Middle,900,4,Alpine High,1250,4,28.32039402287336
+Red,4,3.0,2547.0,0.15,1963,townhouse,2,No,No,No,704000,Cougar Elementary,800,5,Wolf Middle,700,2,Crevasse High,750,1,38.980716253443525
+Red,3,1.0,1539.0,0.1,1966,single-family home,2,No,No,No,1135000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,35.33057851239669
+Red,6,5.0,4255.0,0.38,1964,townhouse,2,No,No,Yes,1031000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,25.705620801314584
+Red,6,5.0,4538.0,0.74,1953,single-family home,1,No,No,Yes,1487000,Cougar Elementary,800,5,Wolf Middle,700,2,Alpine High,1250,4,14.078127714491352
+Red,3,1.0,1403.0,0.18,1972,single-family home,1,No,No,Yes,1136000,Cheetah Elementary,850,4,Wolf Middle,700,2,Crevasse High,750,1,17.893582287521685
+Red,6,5.0,3257.0,0.83,1966,single-family home,1,No,No,Yes,1430000,Bobcat Elementary,600,1,Wolf Middle,700,2,Alpine High,1250,4,9.00848573356788
+Red,4,2.5,1702.0,0.22,1950,single-family home,1,No,No,Yes,1361000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,17.760247099090073
+Red,1,1.0,640.0,0.08,1956,single-family home,1,No,No,No,1109000,Cheetah Elementary,850,4,Wolf Middle,700,2,Alpine High,1250,4,18.365472910927455
+Red,3,2.0,1541.0,0.29,1968,single-family home,1,No,No,No,1252000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,12.198790411956557
+Red,3,1.0,1863.0,0.24,1951,condo,2,No,No,Yes,495000,Cheetah Elementary,850,4,Wolf Middle,700,2,Crevasse High,750,1,17.820247933884296
+Red,4,1.5,2657.0,0.32,1964,town house,1,No,No,No,863000,Cougar Elementary,800,5,Wolf Middle,700,2,Alpine High,1250,4,19.061352157943066
+Red,6,3.5,4253.0,1.08,1966,condo,1,No,No,Yes,879000,Bobcat Elementary,600,1,Wolf Middle,700,2,Crevasse High,750,1,9.040319015066489
+Red,6,3.0,4760.0,0.91,1957,townhouse,?,No,No,Yes,953000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,12.008193826375644
+Red,6,3.0,4392.0,0.36,1976,townhouse,2,No,No,Yes,1078000,Cougar Elementary,800,5,Coyote Middle,900,4,Alpine High,1250,4,28.007346189164373
+Red,3,1.5,1568.0,0.22,1968,single-family home,1,No,No,Yes,1118000,Lynx Elementary,600,3,Coyote Middle,900,4,Crevasse High,750,1,16.361966775189916
+Red,4,3.0,2578.0,0.16,1952,single-family home,2,No,No,Yes,1259000,Bobcat Elementary,600,1,Coyote Middle,900,4,Alpine High,1250,4,36.98921028466483
+Red,3,2.0,1505.0,0.27,1962,condo,1,No,No,No,586000,Lynx Elementary,600,3,Wolf Middle,700,2,Alpine High,1250,4,12.796313301363806
+Red,3,2.0,1425.0,0.19,1956,condo,1,No,No,No,638000,Cheetah Elementary,850,4,Coyote Middle,900,4,Alpine High,1250,4,17.217630853994493
+Red,3,2.0,1973.0,0.23,1978,single-family home,1,Yes,No,No,1176000,Cheetah Elementary,850,4,Wolf Middle,700,2,Crevasse High,750,1,19.692977202858625
+Orange,3,2.0,1724.0,0.22,1964,single-family home,1,No,No,No,1080000,Puma Elementary,750,7,Fox Middle,550,6,Glacier High,1050,3,17.989815510476667
+Orange,5,3.0,3620.0,0.49,1945,townhouse,1,No,No,Yes,835000,Leopard Elementary,900,5,Fox Middle,550,6,Atlas High,950,2,16.959952024887095
+Orange,3,1.0,1695.0,0.1,2011,single-family home,2,Yes,Yes,Yes,1589000,Puma Elementary,750,7,Dhole Middle,700,7,Summit High,800,7,38.91184573002755
+Orange,4,1.0,2601.0,0.66,1943,condo,1,No,No,Yes,1026000,Puma Elementary,750,7,Fox Middle,550,6,Summit High,800,7,9.047082394189832
+Orange,1,1.0,692.0,0.08,2008,single-family home,1,No,Yes,No,1321000,Leopard Elementary,900,5,Dhole Middle,700,7,Glacier High,1050,3,19.857667584940312
+Orange,5,3.5,2973.0,0.68,1986,condo,1,No,No,No,952000,Leopard Elementary,900,5,Dhole Middle,700,7,Atlas High,950,2,10.036865986063846
+Orange,3,1.5,1663.0,0.11,1976,single-family home,2,Yes,No,No,1479000,Lion Elementary,700,6,Jackal Middle,850,4,Summit High,800,7,34.70656983053677
+Orange,3,1.5,1937.0,0.2,1943,townhouse,2,No,No,No,727000,Lion Elementary,700,6,Fox Middle,550,6,Atlas High,950,2,22.23370064279155
+Orange,3,1.0,1675.0,0.14,1993,single-family home,2,No,No,No,1189000,Jaguar Elementary,600,2,Fox Middle,550,6,Atlas High,950,2,27.466220648038824
+Orange,3,1.5,1401.0,0.09,2018,condo,2,No,Yes,No,965000,Leopard Elementary,900,5,Jackal Middle,850,4,Summit High,800,7,35.73614937251301
+Orange,2,1.0,967.0,0.28,2002,single-family home,1,No,Yes,No,1297000,Jaguar Elementary,600,2,Fox Middle,550,6,Glacier High,1050,3,7.928309064672701
+Orange,2,1.0,1294.0,0.25,1973,single-family home,1,No,No,No,1379000,Leopard Elementary,900,5,Fox Middle,550,6,Summit High,800,7,11.882460973370064
+Orange,3,1.5,1702.0,0.36,1987,single-family home,1,No,No,No,1149000,Jaguar Elementary,600,2,Fox Middle,550,6,Atlas High,950,2,10.853484338332823
+Orange,6,4.0,5013.0,0.61,1963,single-family home,1,No,No,No,1555000,Leopard Elementary,900,5,Jackal Middle,850,4,Summit High,800,7,18.86600731608183
+Orange,1,1.0,726.0,0.17,1988,townhouse,1,No,Yes,Yes,760000,Jaguar Elementary,600,2,Dhole Middle,700,7,Atlas High,950,2,9.80392156862745
+Orange,3,1.5,1479.0,0.21,1958,condo,1,No,No,No,799000,Puma Elementary,750,7,Jackal Middle,850,4,Summit High,800,7,16.16817525908435
+Orange,3,1.0,2028.0,0.15,1958,single-family home,2,No,No,Yes,1454000,Puma Elementary,750,7,Fox Middle,550,6,Summit High,800,7,31.0376492194674
+Orange,1,1.0,634.0,0.1,1998,townhouse,1,Yes,No,No,647000,Jaguar Elementary,600,2,Dhole Middle,700,7,Atlas High,950,2,14.55463728191001
+Orange,4,1.5,2500.0,0.32,2003,single-family home,2,Yes,Yes,No,1628000,Puma Elementary,750,7,Dhole Middle,700,7,Summit High,800,7,17.935032139577594
+Orange,5,4.0,3872.0,0.49,2018,single-family home,2,No,No,No,1743000,Lion Elementary,700,6,Dhole Middle,700,7,Glacier High,1050,3,18.140589569161
+Orange,1,1.0,694.0,0.13,1945,single-family home,1,No,No,No,939000,Puma Elementary,750,7,Jackal Middle,850,4,Glacier High,1050,3,12.255421346330436
+Orange,5,3.0,3773.0,0.36,1984,townhouse,2,Yes,Yes,No,1133000,Jaguar Elementary,600,2,Dhole Middle,700,7,Summit High,800,7,24.06004489337823
+Orange,2,1.0,1146.0,0.14,2009,single-family home,1,Yes,Yes,No,1518000,Lion Elementary,700,6,Fox Middle,550,6,Summit High,800,7,18.7918142463597
+Orange,5,2.0,3262.0,0.44,1959,single-family home,1,No,No,Yes,1458000,Lion Elementary,700,6,Jackal Middle,850,4,Atlas High,950,2,17.019367225978797
+Orange,4,1.5,2306.0,0.31,1940,townhouse,1,No,No,No,710000,Lion Elementary,700,6,Fox Middle,550,6,Atlas High,950,2,17.076927634112383
+Orange,1,1.0,630.0,0.08,2015,single-family home,1,Yes,Yes,No,1176000,Lion Elementary,700,6,Dhole Middle,700,7,Glacier High,1050,3,18.07851239669421
+Orange,3,1.5,2029.0,0.42,1975,condo,1,No,No,No,740000,Leopard Elementary,900,5,Fox Middle,550,6,Summit High,800,7,11.09034063579518
+Orange,6,4.5,4911.0,0.43,1979,single-family home,2,No,No,No,1642000,Leopard Elementary,900,5,Dhole Middle,700,7,Summit High,800,7,26.218848100454867
+Orange,5,3.5,2970.0,0.4,1941,condo,1,No,No,Yes,793000,Jaguar Elementary,600,2,Fox Middle,550,6,Glacier High,1050,3,17.045454545454543
+Orange,2,1.0,1045.0,0.22,1972,condo,1,Yes,No,Yes,709000,Jaguar Elementary,600,2,Fox Middle,550,6,Glacier High,1050,3,10.904499540863176
+Orange,2,1.0,977.0,0.12,1970,single-family home,1,No,No,No,1119000,Leopard Elementary,900,5,Jackal Middle,850,4,Summit High,800,7,18.69069482705846
+Orange,4,1.5,1980.0,0.57,1954,townhouse,1,No,No,No,682000,Lion Elementary,700,6,Fox Middle,550,6,Atlas High,950,2,7.974481658692185
+Orange,3,1.5,1760.0,0.22,1987,single-family home,2,Yes,No,No,1496000,Jaguar Elementary,600,2,Dhole Middle,700,7,Summit High,800,7,18.365472910927455
+Orange,5,3.5,2813.0,0.32,1966,single-family home,2,No,No,No,1611000,Lion Elementary,700,6,Dhole Middle,700,7,Summit High,800,7,20.18049816345271
+Orange,1,1.0,603.0,0.2679646962127332,1979,condo,1,No,No,No,515000,Jaguar Elementary,600,2,Fox Middle,550,6,Atlas High,950,2,
+Orange,2,1.0,857.0,0.15,2015,townhouse,1,Yes,No,Yes,881000,Leopard Elementary,900,5,Jackal Middle,850,4,Atlas High,950,2,13.116008570554024
+Orange,4,2.5,2863.0,0.6,1949,single-family home,1,No,No,Yes,1322000,Puma Elementary,750,7,Fox Middle,550,6,Summit High,800,7,10.954239363330272
+Orange,4,2.0,1769.0,0.41,1989,townhouse,1,Yes,No,Yes,881000,Puma Elementary,750,7,Jackal Middle,850,4,Glacier High,1050,3,9.905037066899595
+Orange,6,4.0,3717.0,0.28,1989,townhouse,2,No,No,Yes,1045000,Jaguar Elementary,600,2,Jackal Middle,850,4,Atlas High,950,2,30.475206611570243
+Orange,6,4.5,2940.0,0.84,1979,single-family home,1,Yes,No,Yes,1590000,Leopard Elementary,900,5,Fox Middle,550,6,Atlas High,950,2,8.034894398530762
+Orange,4,1.0,1741.0,0.31,1960,single-family home,1,No,No,Yes,1282000,Puma Elementary,750,7,Dhole Middle,700,7,Atlas High,950,2,12.89285820077609
+Orange,3,1.0,1362.0,0.1,1978,single-family home,2,No,No,Yes,1294000,Leopard Elementary,900,5,Jackal Middle,850,4,Glacier High,1050,3,31.267217630853995
+Orange,3,1.5,1789.0,0.24,1980,condo,1,Yes,No,Yes,653000,Leopard Elementary,900,5,Dhole Middle,700,7,Atlas High,950,2,17.112411998775638
+Orange,3,2.0,1873.0,0.27,1984,townhouse,1,No,Yes,No,773000,Leopard Elementary,900,5,Dhole Middle,700,7,Glacier High,1050,3,15.92524572322552
+Orange,6,4.5,4719.0,0.27,1999,townhouse,2,No,No,No,988000,Lion Elementary,700,6,Fox Middle,550,6,Atlas High,950,2,40.12345679012345
+Orange,2,1.0,1040.0,0.18,2009,condo,1,No,Yes,No,768000,Lion Elementary,700,6,Jackal Middle,850,4,Glacier High,1050,3,13.263952657892053
+Orange,5,3.5,2865.0,0.66,1992,single-family home,1,Yes,No,No,1552000,Puma Elementary,750,7,Fox Middle,550,6,Atlas High,950,2,9.965356039736205
+Orange,1,1.0,634.0,0.08,1976,condo,1,No,No,No,451000,Lion Elementary,700,6,Jackal Middle,850,4,Glacier High,1050,3,18.19329660238751
+Orange,1,1.0,668.0,0.15,1944,condo,1,No,No,Yes,641000,Leopard Elementary,900,5,Jackal Middle,850,4,Summit High,800,7,10.22344658708295
+Orange,3,1.5,1577.0,0.26,1952,single-family home,1,No,No,No,1280000,Jaguar Elementary,600,2,Jackal Middle,850,4,Summit High,800,7,13.924207106025289
+Orange,3,1.5,1352.0,0.34,1987,single-family home,1,No,Yes,Yes,1362000,Jaguar Elementary,600,2,Fox Middle,550,6,Glacier High,1050,3,9.128720358666882
+Orange,3,1.5,1480.0,0.34,1965,single-family home,1,No,No,No,1236000,Lion Elementary,700,6,Jackal Middle,850,4,Glacier High,1050,3,9.992977907416408
+Orange,5,4.0,3798.0,0.62,1989,condo,1,Yes,No,No,1184000,Puma Elementary,750,7,Dhole Middle,700,7,Summit High,800,7,14.062916555585177
+Orange,1,1.0,606.0,0.15,2005,single-family home,1,No,No,Yes,1329000,Puma Elementary,750,7,Fox Middle,550,6,Summit High,800,7,9.274563820018365
+Orange,4,1.0,1945.0,0.24,2002,townhouse,1,Yes,Yes,Yes,868000,Leopard Elementary,900,5,Dhole Middle,700,7,Atlas High,950,2,18.604606672788492
+Orange,6,3.5,4121.0,0.53,1999,single-family home,1,No,No,No,1620000,Leopard Elementary,900,5,Dhole Middle,700,7,Glacier High,1050,3,17.85002685517265
+Orange,4,1.0,2530.0,0.18,1961,single-family home,2,No,No,No,1594000,Lion Elementary,700,6,Dhole Middle,700,7,Summit High,800,7,32.26711560044894
+Orange,4,3.0,2597.0,0.16,1973,single-family home,2,No,No,No,1400000,Jaguar Elementary,600,2,Fox Middle,550,6,Summit High,800,7,37.26182277318641
+Orange,1,1.0,797.0,0.1,1964,condo,1,No,No,No,512000,Leopard Elementary,900,5,Jackal Middle,850,4,Glacier High,1050,3,18.29660238751148
+Orange,4,1.0,2447.0,0.7,1992,single-family home,1,Yes,Yes,No,1472000,Jaguar Elementary,600,2,Jackal Middle,850,4,Summit High,800,7,8.02505575232848
+Orange,3,1.0,1761.0,0.34,1957,condo,1,No,No,Yes,763000,Lion Elementary,700,6,Jackal Middle,850,4,Summit High,800,7,11.890293307405605
+Orange,2,1.0,1253.0,0.26,1986,single-family home,1,No,Yes,Yes,1139000,Puma Elementary,750,7,Jackal Middle,850,4,Glacier High,1050,3,11.063431517976973
+Orange,4,2.5,1913.0,0.55,1967,single-family home,1,No,No,Yes,1419000,Leopard Elementary,900,5,Dhole Middle,700,7,Summit High,800,7,7.984806745137322
+Orange,4,1.5,1990.0,0.12,2003,single-family home,2,Yes,No,No,1419000,Leopard Elementary,900,5,Jackal Middle,850,4,Atlas High,950,2,38.07009488827671
+Orange,4,2.5,2303.0,0.13,1963,single-family home,2,No,No,No,1339000,Lion Elementary,700,6,Dhole Middle,700,7,Glacier High,1050,3,40.668927032563396
+Orange,5,3.5,2330.0,0.3,1985,single-family home,2,Yes,Yes,No,1348000,Leopard Elementary,900,5,Fox Middle,550,6,Atlas High,950,2,17.82981328435874
+Orange,1,1.0,611.0,0.09,1994,single-family home,1,No,Yes,No,1076000,Leopard Elementary,900,5,Fox Middle,550,6,Glacier High,1050,3,15.585144373023162
+Orange,3,1.0,2116.0,0.49,1954,single-family home,1,No,No,Yes,1196000,Puma Elementary,750,7,Dhole Middle,700,7,Glacier High,1050,3,9.91360731620472
+Orange,6,5.0,4375.0,0.5,1952,single-family home,1,No,No,Yes,1592000,Leopard Elementary,900,5,Fox Middle,550,6,Atlas High,950,2,20.087235996326903
+Orange,1,1.0,753.0,0.17,1952,townhouse,1,No,No,Yes,636000,Leopard Elementary,900,5,Dhole Middle,700,7,Atlas High,950,2,10.168530222006158
+Orange,2,1.0,1326.0,0.3,1959,single-family home,1,No,No,No,1168000,Puma Elementary,750,7,Fox Middle,550,6,Atlas High,950,2,10.146923783287418
+Orange,3,1.5,1882.0,0.33,1941,single-family home,1,No,No,Yes,1228000,Lion Elementary,700,6,Fox Middle,550,6,Atlas High,950,2,13.092356067562678
+Orange,999,1.0,753.0,0.3346225808427663,1957,townhouse,1,No,No,No,647000,Lion Elementary,700,6,Fox Middle,550,6,Glacier High,1050,3,
+Orange,5,3.0,3701.0,0.3,2014,single-family home,2,No,No,No,1696000,Leopard Elementary,900,5,Fox Middle,550,6,Glacier High,1050,3,28.321089684726047
+Orange,6,5.0,3773.0,0.72,1949,townhouse,1,No,No,No,968000,Puma Elementary,750,7,Fox Middle,550,6,Glacier High,1050,3,12.030022446689115
+Orange,3,1.0,1309.0,0.2,1956,townhouse,1,No,No,Yes,932000,Puma Elementary,750,7,Dhole Middle,700,7,Summit High,800,7,15.025252525252524
+Orange,4,1.5,2822.0,0.29,2011,single-family home,2,Yes,No,No,1393000,Leopard Elementary,900,5,Jackal Middle,850,4,Glacier High,1050,3,22.339381273550554
+Orange,6,3.0,3465.0,0.28,2011,single-family home,2,Yes,No,No,1438000,Leopard Elementary,900,5,Jackal Middle,850,4,Glacier High,1050,3,28.409090909090907
+Orange,3,1.5,1628.0,0.37,1982,townhouse,1,Yes,No,No,774000,Puma Elementary,750,7,Dhole Middle,700,7,Atlas High,950,2,10.101010101010102
+Orange,4,2.5,2554.0,0.29,1999,condo,1,No,No,No,916000,Leopard Elementary,900,5,Jackal Middle,850,4,Summit High,800,7,20.21785250625376
+Orange,3,1.5,1413.0,0.15,1956,single-family home,2,No,No,No,1118000,Lion Elementary,700,6,Fox Middle,550,6,Glacier High,1050,3,21.62534435261708
+Orange,3,1.5,1393.0,0.09,2010,single-family home,2,,,,1503000,Jaguar Elementary,600,2,Fox Middle,550,6,Summit High,800,7,35.53208856239159
+Orange,4,1.0,2820.0,0.16,2011,condo,2,No,No,Yes,998000,Leopard Elementary,900,5,Jackal Middle,850,4,Glacier High,1050,3,40.46143250688705
+Orange,2,1.0,1203.0,0.15,2008,single-family home,1,Yes,Yes,No,1375000,Leopard Elementary,900,5,Jackal Middle,850,4,Glacier High,1050,3,18.411386593204774
+Orange,3,2.0,1779.0,0.21,1980,single-family home,1,Yes,No,No,1279000,Jaguar Elementary,600,2,Jackal Middle,850,4,Summit High,800,7,19.44772399317854
+Orange,3,1.5,1481.0,0.19,1948,condo,2,No,No,Yes,534000,Leopard Elementary,900,5,Jackal Middle,850,4,Atlas High,950,2,17.894253540186554
+Orange,3,2.0,1967.0,0.24,1961,single-family home,1,No,No,Yes,1176000,Jaguar Elementary,600,2,Jackal Middle,850,4,Glacier High,1050,3,18.8150443832262
+Orange,6,3.5,3416.0,0.2,1949,single-family home,2,No,No,No,1600000,Jaguar Elementary,600,2,Dhole Middle,700,7,Summit High,800,7,39.21028466483012
+Orange,2,1.0,1133.0,0.29,1994,single-family home,1,Yes,No,Yes,1122000,Leopard Elementary,900,5,Fox Middle,550,6,Glacier High,1050,3,8.969000348310693
+Orange,6,4.0,3102.0,0.25,2011,townhouse,2,No,Yes,No,1308000,Puma Elementary,750,7,Fox Middle,550,6,Summit High,800,7,28.484848484848484
+Orange,3,1.5,1222.0,0.15,1963,single-family home,1,No,No,No,1352000,Jaguar Elementary,600,2,Dhole Middle,700,7,Summit High,800,7,18.702173247627794
+Orange,3,1.0,1498.0,0.18,1942,townhouse,1,No,No,No,672000,Puma Elementary,750,7,Dhole Middle,700,7,Glacier High,1050,3,19.10519334761759
+Orange,1,1.0,753.0,0.13,2010,condo,1,Yes,Yes,No,664000,Jaguar Elementary,600,2,Fox Middle,550,6,Glacier High,1050,3,13.297308751854207
+Orange,1,1.0,548.0,0.16,1940,condo,1,No,No,No,463000,Leopard Elementary,900,5,Dhole Middle,700,7,Glacier High,1050,3,7.862718089990817
+Orange,4,3.0,2017.0,0.19,1996,single-family home,2,Yes,Yes,No,1611000,Puma Elementary,750,7,Dhole Middle,700,7,Summit High,800,7,24.370499250882027
+Orange,6,3.0,3602.0,0.64,1963,townhouse,1,No,No,No,955000,Jaguar Elementary,600,2,Jackal Middle,850,4,Atlas High,950,2,12.920397153351699
+Orange,3,2.0,1917.0,0.26,2016,single-family home,1,No,No,No,1543000,Jaguar Elementary,600,2,Fox Middle,550,6,Glacier High,1050,3,16.9262555626192
+Orange,1,1.0,697.0,0.12,1993,single-family home,1,No,Yes,No,1240000,Puma Elementary,750,7,Fox Middle,550,6,Glacier High,1050,3,13.334098561371288
+Orange,5,2.5,3442.0,0.44,1997,single-family home,1,Yes,No,No,1472000,Puma Elementary,750,7,Dhole Middle,700,7,Atlas High,950,2,17.958510727105768
+Orange,3,1.5,1989.0,0.24,2011,townhouse,1,No,Yes,No,853000,Leopard Elementary,900,5,Fox Middle,550,6,Glacier High,1050,3,19.02548209366391
+Orange,3,1.0,1778.0,0.7901181258146595,2010,condo,2,No,No,No,655000,Jaguar Elementary,600,2,Jackal Middle,850,4,Glacier High,1050,3,
+Orange,4,1.0,2488.0,0.19,1972,condo,2,No,No,No,588000,Jaguar Elementary,600,2,Fox Middle,550,6,Atlas High,950,2,30.061379343676
+Orange,3,1.0,1487.0,0.19,1980,condominium,1,Yes,No,No,857000,Leopard Elementary,900,5,Jackal Middle,850,4,Summit High,800,7,17.96674882799285
+Orange,5,3.5,2837.0,0.18,1964,condo,2,No,No,No,987000,Leopard Elementary,900,5,Dhole Middle,700,7,Summit High,800,7,36.18253239465361
+Orange,2,1.0,963.0,0.18,1941,single-family home,1,No,No,Yes,1200000,Leopard Elementary,900,5,Fox Middle,550,6,Summit High,800,7,12.281910009182738
+Orange,1,1.0,762.0,0.13,2011,single-family home,1,No,Yes,Yes,1585000,Leopard Elementary,900,5,Fox Middle,550,6,Summit High,800,7,13.456240728968002
+Orange,3,1.0,1581.0,0.14,2016,single-family home,2,No,No,No,1263000,Leopard Elementary,900,5,Fox Middle,550,6,Glacier High,1050,3,25.92483274301456
+Orange,3,1.5,1984.0,0.13,1978,condo,2,Yes,No,Yes,791000,Leopard Elementary,900,5,Fox Middle,550,6,Summit High,800,7,35.03567139930776
+Orange,2,1.0,909.0,0.23,1970,single-family home,1,Yes,No,No,1232000,Jaguar Elementary,600,2,Fox Middle,550,6,Summit High,800,7,9.07294286740927
+Orange,6,4.0,4232.0,0.69,1986,single-family home,1,Yes,Yes,No,1448000,Jaguar Elementary,600,2,Dhole Middle,700,7,Atlas High,950,2,14.080195898377717
+Orange,6,5.0,4436.0,0.28,1983,townhouse,2,No,No,No,1200000,Lion Elementary,700,6,Fox Middle,550,6,Summit High,800,7,36.37019546110455
+Orange,1,1.0,686.0,0.1,1980,single-family home,1,Yes,No,No,1103000,Leopard Elementary,900,5,Jackal Middle,850,4,Glacier High,1050,3,15.748393021120293
+Orange,1,1.0,628.0,0.08,1974,single-family home,1,,,,1050000,Puma Elementary,750,7,Fox Middle,550,6,Glacier High,1050,3,18.021120293847563
+Orange,3,1.0,1474.0,0.2,1944,condo,1,No,No,No,771000,Jaguar Elementary,600,2,Jackal Middle,850,4,Summit High,800,7,16.91919191919192
+Orange,5,3.0,3285.0,0.38,2018,single-family home,2,Yes,Yes,No,1517000,Leopard Elementary,900,5,Fox Middle,550,6,Glacier High,1050,3,19.845585036972597
+Orange,3,2.0,1556.0,0.32,1985,single-family home,1,No,Yes,No,1304000,Puma Elementary,750,7,Dhole Middle,700,7,Glacier High,1050,3,11.162764003673093
+Orange,4,2.5,2656.0,0.36,1979,condo,1,Yes,No,No,984000,Lion Elementary,700,6,Jackal Middle,850,4,Summit High,800,7,16.937047240077543
+Orange,6,5.0,3198.0,0.46,1950,townhouse,1,No,No,Yes,1008000,Puma Elementary,750,7,Fox Middle,550,6,Atlas High,950,2,15.959995209007067
+Orange,1,1.0,785.0,0.2,1965,condo,1,No,No,No,423000,Leopard Elementary,900,5,Jackal Middle,850,4,Atlas High,950,2,9.010560146923783
+Orange,3,2.0,1477.0,0.09,1970,condo,2,No,No,No,751000,Leopard Elementary,900,5,Jackal Middle,850,4,Summit High,800,7,37.67472706866646
+Orange,6,4.0,4936.0,0.38,1953,single-family home,2,No,No,No,1600000,Leopard Elementary,900,5,Fox Middle,550,6,Glacier High,1050,3,29.819728384321685
+Orange,3,2.0,1853.0,0.21,1993,townhouse,2,No,No,No,892000,Puma Elementary,750,7,Fox Middle,550,6,Atlas High,950,2,20.256679347588438
+Orange,3,2.0,2138.0,0.31,2008,townhouse,2,Yes,Yes,No,999000,Puma Elementary,750,7,Jackal Middle,850,4,Glacier High,1050,3,15.832814953049557
+Orange,4,3.0,2733.0,0.16,2010,single-family home,2,No,No,No,1637000,Puma Elementary,750,7,Dhole Middle,700,7,Summit High,800,7,39.21315426997245
+Orange,3,1.5,1611.0,0.14,1987,single-family home,2,No,Yes,No,1361000,Puma Elementary,750,7,Jackal Middle,850,4,Summit High,800,7,26.41676505312869
+Orange,4,2.5,2851.0,0.55,1972,single-family home,1,No,No,No,1396000,Lion Elementary,700,6,Jackal Middle,850,4,Summit High,800,7,11.899991652057766
+Orange,6,5.0,3934.0,0.9,1977,single-family home,1,Yes,No,No,1643000,Puma Elementary,750,7,Jackal Middle,850,4,Glacier High,1050,3,10.03469033772064
+Orange,6,5.0,5265.0,2.339691750514163,1953,single-family home,2,No,No,Yes,1592000,Puma Elementary,750,7,Dhole Middle,700,7,Glacier High,1050,3,
+Orange,3,1.5,1657.0,0.15,1974,single-family home,2,No,No,No,1225000,Puma Elementary,750,7,Dhole Middle,700,7,Atlas High,950,2,25.359657177838997
+Orange,4,1.5,1826.0,0.16,1987,single-family home,2,No,No,No,1463000,Leopard Elementary,900,5,Fox Middle,550,6,Summit High,800,7,26.19949494949495
+Orange,4,1.0,2534.0,0.32,1983,townhouse,1,Yes,Yes,No,942000,Leopard Elementary,900,5,Fox Middle,550,6,Summit High,800,7,18.17894857667585
+Orange,4,1.0,2088.0,0.37,2005,single-family home,1,No,Yes,No,1324000,Jaguar Elementary,600,2,Dhole Middle,700,7,Atlas High,950,2,12.955103864194776
+Orange,3,2.0,1633.0,0.34,1990,single-family home,1,No,No,Yes,1256000,Jaguar Elementary,600,2,Fox Middle,550,6,Glacier High,1050,3,11.026035758656079
+Orange,5,2.0,2553.0,0.37,1961,single-family home,1,No,No,Yes,1317000,Puma Elementary,750,7,Dhole Middle,700,7,Atlas High,950,2,15.840220385674932
+Orange,4,1.0,1892.0,0.24,1962,townhouse,2,No,No,No,742000,Jaguar Elementary,600,2,Fox Middle,550,6,Atlas High,950,2,18.097643097643097
+Orange,1,1.0,718.0,0.16,1947,single-family home,1,No,No,Yes,1092000,Lion Elementary,700,6,Fox Middle,550,6,Atlas High,950,2,10.301882460973369
+Orange,5,2.5,3224.0,0.46,1952,townhouse,1,No,No,Yes,825000,Leopard Elementary,900,5,Dhole Middle,700,7,Atlas High,950,2,16.08975126761688
+Orange,6,3.0,4288.0,0.26,2018,single-family home,2,Yes,Yes,No,1752000,Puma Elementary,750,7,Jackal Middle,850,4,Atlas High,950,2,37.86112877021968
+Orange,3,1.0,1300.0,0.27,1988,single-family home,1,Yes,No,No,1276000,Lion Elementary,700,6,Fox Middle,550,6,Atlas High,950,2,11.053293881576709
+Orange,4,2.5,2134.0,0.41,2010,single-family home,1,No,No,Yes,1391000,Jaguar Elementary,600,2,Jackal Middle,850,4,Glacier High,1050,3,11.948755851194877
+Orange,3,1.5,2001.0,0.42,2015,single-family home,1,Yes,Yes,No,1400000,Jaguar Elementary,600,2,Dhole Middle,700,7,Glacier High,1050,3,10.937295028204119
+Yellow,3,1.5,1989.0,0.29,1986,condo,2,No,Yes,No,991000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Valley High,750,8,15.745226560273581
+Yellow,4,2.5,2339.0,0.18,1984,single-family home,2,No,No,No,1662000,Serval Elementary,750,9,Husky Middle,550,8,Mountain High,1100,9,29.83113967962453
+Yellow,3,1.5,1493.0,0.34,2000,single-family home,1,Yes,No,No,1740000,Tiger Elementary,800,8,Husky Middle,550,8,Mountain High,1100,9,10.080754064711284
+Yellow,4,1.5,2709.0,0.41,1981,single-family home,1,Yes,No,No,1686000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,15.168312840153197
+Yellow,3,1.0,1597.0,0.31,1991,townhouse,1,Yes,Yes,No,1045000,Tiger Elementary,800,8,Culpeo Middle,550,7,Mountain High,1100,9,11.826475902722237
+Yellow,6,3.0,2858.0,0.27,1977,single-family home,2,No,No,No,1658000,Tiger Elementary,800,8,Culpeo Middle,550,7,Valley High,750,8,24.300241471958643
+Yellow,4,2.5,2666.0,0.31,1984,single-family home,1,Yes,Yes,Yes,1864000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,19.742883379247015
+Yellow,3,2.0,1798.0,0.46,1977,multi-family home,1,No,No,No,1580000,Tiger Elementary,800,8,Culpeo Middle,550,7,Valley High,750,8,8.973130514632489
+Yellow,1,1.0,683.0,0.14,1976,single-family home,1,No,No,No,1363000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,11.199658926931653
+Yellow,4,2.5,2835.0,0.33,1971,condominium,2,Yes,No,No,1009000,Tiger Elementary,800,8,Culpeo Middle,550,7,Valley High,750,8,19.722013523666416
+Yellow,3,1.0,2062.0,0.9163237207141889,1992,single-family home,2,No,Yes,Yes,1959000,Serval Elementary,750,9,Husky Middle,550,8,Mountain High,1100,9,
+Yellow,3,2.0,2020.0,0.46,2015,condo,1,No,Yes,No,1069000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,10.081047630454744
+Yellow,3,2.0,1433.0,0.17,2013,single-family home,1,Yes,No,No,1769000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,19.351266677469884
+Yellow,5,3.0,2408.0,0.2,1973,single-family home,2,Yes,No,No,1839000,Tiger Elementary,800,8,Husky Middle,550,8,Mountain High,1100,9,27.640036730945823
+Yellow,1,1.0,704.0,0.11,2003,multi-family home,1,Yes,Yes,No,1601000,Tiger Elementary,800,8,Culpeo Middle,550,7,Mountain High,1100,9,14.692378328741965
+Yellow,3,1.0,1836.0,0.42,1994,multi-family home,1,No,No,No,1320000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,10.035419126328216
+Yellow,3,2.0,1840.0,0.16,2009,condo,2,Yes,No,No,1178000,Serval Elementary,750,9,Husky Middle,550,8,Valley High,750,8,26.40036730945822
+Yellow,4,3.0,2004.0,0.18,1988,townhouse,2,Yes,Yes,Yes,1128000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,25.558616467707377
+Yellow,3,1.5,1729.0,0.25,2003,condo,1,No,Yes,No,1005000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,15.876951331496786
+Yellow,4,3.0,2466.0,0.26,2017,condo,2,No,No,No,1216000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Valley High,750,8,21.773680864589956
+Yellow,3,1.5,1833.0,0.26,1997,multi-family home,2,No,No,No,1655000,Ocelot Elementary,750,10,Husky Middle,550,8,Valley High,750,8,16.18457300275482
+Yellow,4,1.5,2651.0,0.3,2002,multi-family home,1,Yes,Yes,No,1779000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,20.286195286195287
+Yellow,3,2.0,1874.0,0.22,2013,condo,1,Yes,Yes,No,1211000,Tiger Elementary,800,8,Husky Middle,550,8,Mountain High,1100,9,19.55505467902162
+Yellow,1,1.0,610.0,0.16,1977,single-family home,1,Yes,No,No,1216000,Tiger Elementary,800,8,Culpeo Middle,550,7,Valley High,750,8,8.752295684113866
+Yellow,3,2.0,1777.0,0.41,1977,multi-family home,1,Yes,No,No,1715000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,9.949830903267712
+Yellow,2,1.0,990.0,0.13,1971,single-family home,1,Yes,No,Yes,1674000,Serval Elementary,750,9,Husky Middle,550,8,Valley High,750,8,17.482517482517483
+Yellow,4,3.0,3079.0,0.21,1973,multi-family home,2,No,No,No,1510000,Tiger Elementary,800,8,Culpeo Middle,550,7,Mountain High,1100,9,33.659101840920016
+Yellow,5,3.5,4121.0,0.73,2009,single-family home,1,Yes,No,No,1796000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,12.959608538686995
+Yellow,4,3.0,2236.0,0.29,1982,single-family home,2,Yes,Yes,No,1558000,Ocelot Elementary,750,10,Husky Middle,550,8,Mountain High,1100,9,17.700516133118015
+Yellow,2,1.0,1012.0,0.14,2018,single-family home,1,No,Yes,No,1636000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,16.59451659451659
+Yellow,6,3.0,4670.0,0.34,1992,single-family home,2,Yes,,No,1756000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,31.531896505158535
+Yellow,3,1.0,1304.0,0.19,1979,single-family home,1,No,No,No,1315000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,15.755642549900925
+Yellow,6,3.5,3911.0,0.26,1972,single-family home,2,No,No,Yes,1782000,Ocelot Elementary,750,10,Husky Middle,550,8,Mountain High,1100,9,34.53238680511408
+Yellow,2,1.0,1087.0,0.17,2001,condo,1,Yes,No,Yes,1177000,Ocelot Elementary,750,10,Husky Middle,550,8,Mountain High,1100,9,14.678874304542752
+Yellow,3,1.5,1564.0,0.6950195437424789,1997,townhouse,2,No,Yes,Yes,1115000,Serval Elementary,750,9,Husky Middle,550,8,Valley High,750,8,
+Yellow,6,3.0,4955.0,0.57,1979,single-family home,1,No,No,No,1775000,Serval Elementary,750,9,Culpeo Middle,550,7,Valley High,750,8,19.95634172667666
+Yellow,4,1.0,2673.0,0.61,2012,single-family home,1,Yes,No,No,1623000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,10.059612518628914
+Yellow,4,2.5,1861.0,0.27,1989,condo,2,Yes,Yes,No,955000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,15.823215318164813
+Yellow,3,1.0,1466.0,0.42,1970,multi-family home,1,No,No,Yes,1385000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,8.013030740303467
+Yellow,6,3.0,4645.0,0.53,1989,condo,1,Yes,Yes,No,1254000,Serval Elementary,750,9,Husky Middle,550,8,Valley High,750,8,20.119722092277836
+Yellow,3,2.0,1987.0,0.27,2018,single-family home,1,No,No,No,1623000,Tiger Elementary,800,8,Culpeo Middle,550,7,Mountain High,1100,9,16.89453457130225
+Yellow,4,2.5,2713.0,0.35,1986,multi-family home,1,No,No,Yes,1619000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,17.794831431195067
+Yellow,5,2.0,3450.0,0.44,1973,single-family home,1,Yes,No,No,1652000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Valley High,750,8,18.000250438266967
+Yellow,6,4.5,4964.0,0.63,2009,condo,1,Yes,No,No,1381000,Ocelot Elementary,750,10,Husky Middle,550,8,Valley High,750,8,18.088533240048392
+Yellow,6,3.0,4569.0,0.66,1998,single-family home,1,Yes,Yes,No,1955000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,15.89239502462643
+Yellow,3,1.5,1861.0,0.16,1981,townhouse,2,No,No,Yes,1171000,Tiger Elementary,800,8,Husky Middle,550,8,Mountain High,1100,9,26.701675849403124
+Yellow,2,1.0,1329.0,0.28,1972,condo,1,No,No,Yes,973000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,10.89630066902794
+Yellow,3,2.0,2108.0,0.25,2012,condo,1,Yes,Yes,Yes,1177000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Valley High,750,8,19.35720844811754
+Yellow,1,1.0,752.0,0.14,2001,townhouse,1,Yes,No,No,1014000,Ocelot Elementary,750,10,Husky Middle,550,8,Mountain High,1100,9,12.331103240194148
+Yellow,1,1.0,645.0,0.11,2006,single-family home,1,Yes,Yes,Yes,1376000,Serval Elementary,750,9,Culpeo Middle,550,7,Valley High,750,8,13.4610568494866
+Yellow,4,1.0,2218.0,0.21,1989,single-family home,2,Yes,No,No,1642000,Tiger Elementary,800,8,Husky Middle,550,8,Mountain High,1100,9,24.2467969740697
+Yellow,4,3.0,2480.0,0.2,2009,townhouse,2,Yes,Yes,,1319000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,28.46648301193756
+Yellow,3,1.0,1666.0,0.24,1979,single-family home,1,No,No,No,1598000,Tiger Elementary,800,8,Husky Middle,550,8,Mountain High,1100,9,15.935873890419344
+Yellow,1,1.0,770.0,0.14,1974,townhouse,1,No,No,Yes,844000,Tiger Elementary,800,8,Husky Middle,550,8,Mountain High,1100,9,12.626262626262625
+Yellow,6,4.5,4458.0,1.28,1972,single-family home,1,No,No,Yes,1801000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,7.995437327823692
+Yellow,4,2.0,2719.0,0.39,2007,single-family home,1,No,Yes,Yes,1841000,Ocelot Elementary,750,10,Husky Middle,550,8,Mountain High,1100,9,16.00503873231146
+Yellow,1,1.0,634.0,0.13,2011,condo,1,No,Yes,No,1104000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,11.195874832238468
+Yellow,3,1.5,1295.0,0.27,1996,multi-family home,1,Yes,No,No,1561000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Valley High,750,8,11.010781212801414
+Yellow,3,2.0,1924.0,0.14,1972,condo,2,No,No,Yes,1103000,Ocelot Elementary,750,10,Culpeo Middle,550,7,Mountain High,1100,9,31.549258821986093
+Yellow,5,3.5,3182.0,0.43,1975,condo,1,Yes,No,No,1207000,Serval Elementary,750,9,Culpeo Middle,550,7,Mountain High,1100,9,16.988062442607898
+Yellow,4,1.5,2091.0,0.13,2018,condo,2,Yes,No,Yes,1101000,Tiger Elementary,800,8,Culpeo Middle,550,7,Mountain High,1100,9,36.925196016105104
+Yellow,5,2.0,2590.0,0.4,2007,condo,1,Yes,Yes,Yes,1233000,Serval Elementary,750,9,Husky Middle,550,8,Valley High,750,8,14.864554637281909
+Yellow,4,1.5,2100.0,0.24,2000,single-family home,2,Yes,Yes,No,1706000,Tiger Elementary,800,8,Culpeo Middle,550,7,Mountain High,1100,9,20.087235996326903
+Yellow,5,2.5,3954.0,0.25,1976,condo,2,No,No,Yes,1129000,Serval Elementary,750,9,Culpeo Middle,550,7,Valley High,750,8,36.308539944903586
+Yellow,4,2.0,2842.0,0.72,1980,single-family home,1,Yes,No,No,1453000,Serval Elementary,750,9,Husky Middle,550,8,Valley High,750,8,9.061575349454138
+Yellow,4,3.0,2343.0,0.34,2007,condo,2,Yes,Yes,Yes,1170000,Ocelot Elementary,750,10,Husky Middle,550,8,Valley High,750,8,15.81996434937611
+Yellow,4,2.0,2021.0,0.46,1995,condo,1,No,Yes,No,1215000,Tiger Elementary,800,8,Husky Middle,550,8,Valley High,750,8,10.086038248093583
+Yellow,2,1.0,988.0,0.15,1991,condo,1,Yes,No,No,747000,Serval Elementary,750,9,Culpeo Middle,550,7,Valley High,750,8,15.120906029996938
+Green,4,2.5,2982.0,0.68,1997,condo,1,No,Yes,No,940000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,10.067250040512072
+Green,3,1.0,1698.0,0.22,1981,single-family home,1,No,No,No,1666000,Oncilla Elementary,600,5,Hound Middle,850,7,River High,1000,10,17.718507387928874
+Green,5,2.0,3359.0,0.26,1972,single-family home,2,No,,Yes,1730000,Wildcat Elementary,600,7,Vulpini Middle,700,8,River High,1000,10,29.658472840291022
+Green,4,2.5,3027.0,0.77,2000,single-family home,1,No,Yes,No,1814000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,9.02472183463919
+Green,2,1.0,1186.0,0.25,2015,single-family home,1,Yes,No,No,1792000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,10.890725436179983
+Green,3,2.0,1944.0,0.11,2003,single-family home,2,Yes,Yes,No,1554000,Margay Elementary,600,6,Vulpini Middle,700,8,Ravine High,1100,6,40.5709992486852
+Green,4,2.5,2050.0,0.25,1995,single-family home,1,Yes,No,No,1636000,Wildcat Elementary,600,7,Vulpini Middle,700,8,Ravine High,1100,6,18.824609733700644
+Green,2,1.0,1055.0,0.19,1981,multi-family home,1,,No,No,1175000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,12.74708810593978
+Green,6,3.0,4447.0,0.43,1978,townhouse,2,Yes,No,No,1573000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,23.741644777585584
+Green,1,1.0,620.0,0.16,1995,single-family home,1,No,No,No,1632000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,8.895775941230486
+Green,2,1.0,1183.0,0.5257085167821947,2002,townhouse,1,No,Yes,Yes,976000,Margay Elementary,600,6,Vulpini Middle,700,8,Ravine High,1100,6,
+Green,4,3.0,1890.0,0.15,2013,single-family home,2,Yes,Yes,No,1515000,Margay Elementary,600,6,Vulpini Middle,700,8,Ravine High,1100,6,28.92561983471074
+Green,6,3.5,5016.0,0.72,1997,multi-family home,1,No,Yes,No,1917000,Wildcat Elementary,600,7,Vulpini Middle,700,8,River High,1000,10,15.993265993265995
+Green,3,1.0,1570.0,0.23,2004,single-family home,2,Yes,No,No,1455000,Panther Elementary,700,8,Hound Middle,850,7,Ravine High,1100,6,15.670539385954404
+Green,4,2.0,2371.0,0.25,1981,condo,2,No,No,No,1287000,Oncilla Elementary,600,5,Vulpini Middle,700,8,River High,1000,10,21.7722681359045
+Green,1,1.0,695.0,0.09,1988,townhouse,1,Yes,Yes,No,982000,Oncilla Elementary,600,5,Hound Middle,850,7,River High,1000,10,17.727782879298033
+Green,1,1.0,706.0,0.09,2011,townhouse,1,No,Yes,No,1180000,Margay Elementary,600,6,Vulpini Middle,700,8,River High,1000,10,18.008366493214982
+Green,2,1.0,1029.0,0.12,1991,single-family home,1,Yes,No,Yes,1591000,Oncilla Elementary,600,5,Vulpini Middle,700,8,River High,1000,10,19.68549127640037
+Green,1,1.0,700.0,0.08,1978,multi-family home,1,Yes,No,Yes,1533000,Panther Elementary,700,8,Vulpini Middle,700,8,River High,1000,10,20.087235996326903
+Green,6,4.0,4661.0,0.31,1993,multi-family home,2,Yes,Yes,No,2179000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,34.51672146686809
+Green,4,3.0,2114.0,0.4,1998,multi-family home,1,Yes,No,No,1597000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,12.13269054178145
+Green,4,1.5,2646.0,0.67,2003,single-family home,1,No,Yes,Yes,1868000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,9.06623905267053
+Green,3,2.0,1907.0,0.16,2003,single-family home,2,Yes,Yes,Yes,1811000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,27.361685032139576
+Green,5,3.0,3685.0,0.22,2017,condo,2,Yes,No,Yes,1268000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,38.452708907254355
+Green,1,1.0,802.0,0.09,2001,single-family home,1,Yes,Yes,No,1330000,Panther Elementary,700,8,Hound Middle,850,7,Ravine High,1100,6,20.457096214671974
+Green,3,1.5,1620.0,0.15,1979,single-family home,2,No,No,No,1632000,Oncilla Elementary,600,5,Vulpini Middle,700,8,River High,1000,10,24.793388429752067
+Green,4,2.5,2261.0,0.29,1996,condo,2,No,No,No,854000,Margay Elementary,600,6,Vulpini Middle,700,8,Ravine High,1100,6,17.89841993603749
+Green,4,2.5,2653.0,0.32,1985,single-family home,1,Yes,Yes,No,1832000,Oncilla Elementary,600,5,Vulpini Middle,700,8,River High,1000,10,19.03265610651974
+Green,4,1.0,2822.0,0.4,1983,condo,2,No,Yes,Yes,1284000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,16.19605142332415
+Green,3,1.5,1961.0,0.32,1993,single-family home,1,Yes,Yes,Yes,1713000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,14.068239210284665
+Green,4,1.0,1883.0,0.18,1974,single-family home,2,Yes,No,Yes,1629000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,24.01540659116417
+Green,2,1.0,995.0,0.29,2009,townhouse,1,Yes,No,,1374000,Panther Elementary,700,8,Vulpini Middle,700,8,River High,1000,10,7.87657135619518
+Green,1,1.0,595.0,0.07,1970,townhouse,1,Yes,No,No,809000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,19.51331496786042
+Green,4,2.0,2873.0,0.66,2008,multi-family home,1,Yes,Yes,No,1685000,Oncilla Elementary,600,5,Hound Middle,850,7,Ravine High,1100,6,9.993182513843669
+Green,2,1.0,1121.0,0.14,1990,condo,1,No,Yes,Yes,1214000,Margay Elementary,600,6,Vulpini Middle,700,8,River High,1000,10,18.381870654597925
+Green,4,3.0,1893.0,0.27,2012,multi-family home,1,No,Yes,No,1649000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,16.0952963983267
+Green,3,1.5,1407.0,0.16,1990,single-family home,2,No,Yes,No,1746000,Panther Elementary,700,8,Vulpini Middle,700,8,River High,1000,10,20.18767217630854
+Green,3,1.5,2010.0,0.8932156540424441,2007,townhouse,2,No,No,No,1383000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,
+Green,3,1.0,1513.0,0.12,1975,townhouse,2,No,No,No,1095000,Oncilla Elementary,600,5,Hound Middle,850,7,River High,1000,10,28.94475053565963
+Green,4,1.5,2242.0,0.23,2005,single-family home,2,No,,No,1714000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,22.377929492553996
+Green,4,1.0,1762.0,0.25,1982,townhouse,1,Yes,No,No,976000,Oncilla Elementary,600,5,Vulpini Middle,700,8,Ravine High,1100,6,16.17998163452709
+Green,6,4.5,3272.0,0.21,1980,multi-family home,2,Yes,No,No,1545000,Wildcat Elementary,600,7,Vulpini Middle,700,8,Ravine High,1100,6,35.76894485985395
+Green,4,3.0,1981.0,0.25,2010,single-family home,2,Yes,Yes,No,2091000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,18.191000918273645
+Green,3,2.0,2030.0,0.17,2000,single-family home,2,,No,No,1380000,Wildcat Elementary,600,7,Vulpini Middle,700,8,Ravine High,1100,6,27.41316912439907
+Green,3,1.0,1939.0,0.3,2015,multi-family home,1,No,Yes,No,1663000,Oncilla Elementary,600,5,Hound Middle,850,7,Ravine High,1100,6,14.837771655953475
+Green,3,2.0,1780.0,0.23,1982,townhouse,1,No,Yes,No,1230000,Margay Elementary,600,6,Hound Middle,850,7,River High,1000,10,17.766598794266777
+Green,1,1.0,807.0,0.12,2016,multi-family home,1,No,Yes,No,1355000,Panther Elementary,700,8,Vulpini Middle,700,8,Ravine High,1100,6,15.438475665748394
+Green,6,5.0,5054.0,0.73,1970,townhouse,1,Yes,No,No,1308000,Panther Elementary,700,8,Hound Middle,850,7,Ravine High,1100,6,15.89368152257318
+Green,2,1.0,904.0,0.1,2014,multi-family home,1,Yes,No,Yes,1381000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,20.752984389348025
+Green,5,4.0,3300.0,0.47,2004,multi-family home,2,Yes,Yes,No,2011000,Wildcat Elementary,600,7,Hound Middle,850,7,River High,1000,10,16.11863313990974
+Green,4,2.0,2279.0,0.58,1972,condo,1,Yes,No,No,1064000,Wildcat Elementary,600,7,Vulpini Middle,700,8,River High,1000,10,9.020455337069757
+Green,5,4.0,2561.0,0.37,1982,multi-family home,1,Yes,No,No,1900000,Oncilla Elementary,600,5,Hound Middle,850,7,River High,1000,10,15.88985679894771
+Green,4,1.0,1876.0,0.54,1976,condo,1,No,No,No,823000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,7.975376662245348
+Green,3,2.0,1702.0,0.12,1977,multi-family home,2,Yes,No,No,1415000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,32.56045301499847
+Green,4,1.0,1849.0,0.21,1991,multi-family home,1,Yes,No,No,1505000,Wildcat Elementary,600,7,Vulpini Middle,700,8,River High,1000,10,20.21295203113385
+Green,6,3.5,4370.0,1.11,1982,single-family home,1,No,No,Yes,1717000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,9.037963583418128
+Green,6,5.0,2992.0,0.86,1975,condo,1,No,No,No,1077000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,7.986845196147523
+Green,3,2.0,2182.0,0.28,1986,single-family home,2,Yes,No,No,1455000,Oncilla Elementary,600,5,Hound Middle,850,7,Ravine High,1100,6,17.889938344483795
+Green,3,2.0,1833.0,0.14,2002,condo,2,No,Yes,,980000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,30.057064147973232
+Green,4,2.5,2540.0,0.29,1980,single-family home,1,No,No,No,1468000,Panther Elementary,700,8,Vulpini Middle,700,8,Ravine High,1100,6,20.107026376618855
+Green,2,1.0,1003.0,0.12,2008,condo,1,No,No,Yes,737000,Panther Elementary,700,8,Hound Middle,850,7,Ravine High,1100,6,19.188093051729417
+Green,4,3.0,2262.0,0.31,1999,multi-family home,1,Yes,Yes,No,1394000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,16.751088598595928
+Green,1,1.0,753.0,0.11,1994,multi-family home,1,Yes,Yes,No,1212000,Panther Elementary,700,8,Hound Middle,850,7,Ravine High,1100,6,15.715001252191332
+Green,1,1.0,653.0,0.11,2011,single-family home,1,No,No,No,1408000,Oncilla Elementary,600,5,Hound Middle,850,7,Ravine High,1100,6,13.628015694131395
+Green,4,1.0,1862.0,0.11,2009,multi-family home,2,No,Yes,No,1498000,Margay Elementary,600,6,Vulpini Middle,700,8,Ravine High,1100,6,38.859671091076045
+Green,4,1.0,1968.0,0.21,2009,multi-family home,2,No,Yes,No,2040000,Margay Elementary,600,6,Vulpini Middle,700,8,River High,1000,10,21.51383969565788
+Green,3,1.5,2047.0,0.12,1982,single-family home,2,Yes,Yes,Yes,1645000,Margay Elementary,600,6,Vulpini Middle,700,8,Ravine High,1100,6,39.160544842363024
+Green,4,1.0,2575.0,1.1442936861489024,2012,multi-family home,1,No,Yes,No,1595000,Oncilla Elementary,600,5,Vulpini Middle,700,8,Ravine High,1100,6,
+Green,4,1.0,2028.0,0.27,2018,condo,1,Yes,Yes,No,1413000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,17.243138455259665
+Green,3,2.0,1710.0,0.23,1970,multi-family home,1,Yes,No,No,1512000,Panther Elementary,700,8,Vulpini Middle,700,8,Ravine High,1100,6,17.06791232482932
+Green,3,2.0,1822.0,0.19,1997,condo,2,Yes,Yes,No,1178000,Wildcat Elementary,600,7,Vulpini Middle,700,8,River High,1000,10,22.01440239717752
+Green,3,1.0,1880.0,0.29,1973,single-family home,1,No,No,No,1568000,Panther Elementary,700,8,Vulpini Middle,700,8,River High,1000,10,14.882365979544662
+Green,5,3.5,3395.0,0.49,1998,single-family home,1,Yes,No,No,1719000,Panther Elementary,700,8,Hound Middle,850,7,Ravine High,1100,6,15.905811360356816
+Green,3,2.0,1537.0,0.1,1983,single-family home,2,No,No,No,1518000,Margay Elementary,600,6,Vulpini Middle,700,8,River High,1000,10,35.284664830119375
+Green,1,1.0,711.0,0.09,1971,single-family home,1,Yes,No,No,1246000,Margay Elementary,600,6,Vulpini Middle,700,8,Ravine High,1100,6,18.135904499540864
+Green,4,2.5,2220.0,0.57,2005,condo,1,No,No,Yes,1291000,Oncilla Elementary,600,5,Hound Middle,850,7,River High,1000,10,8.94108549610942
+Green,3,1.0,1934.0,0.23,1987,multi-family home,1,Yes,Yes,No,1460000,Panther Elementary,700,8,Vulpini Middle,700,8,Ravine High,1100,6,19.303709027029186
+Green,6,3.0,3175.0,0.33,1979,townhouse,2,No,No,Yes,1183000,Oncilla Elementary,600,5,Hound Middle,850,7,Ravine High,1100,6,22.087263822801013
+Green,1,1.0,683.0,0.1,2000,condo,1,Yes,Yes,No,703000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,15.679522497704315
+Green,1,1.0,697.0,0.18,1985,condo,1,No,Yes,No,678000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,8.889399040914194
+Green,5,3.0,3721.0,0.85,1971,condo,1,No,No,No,1029000,Wildcat Elementary,600,7,Vulpini Middle,700,8,Ravine High,1100,6,10.049694809053097
+Green,4,2.0,2497.0,0.32,1985,single-family home,1,Yes,No,No,1748000,Margay Elementary,600,6,Vulpini Middle,700,8,River High,1000,10,17.9135101010101
+Green,3,1.0,2075.0,0.3,2008,townhouse,2,Yes,No,No,1054000,Margay Elementary,600,6,Vulpini Middle,700,8,River High,1000,10,15.878481787572696
+Green,3,2.0,1827.0,0.35,1990,single-family home,1,Yes,No,No,1275000,Oncilla Elementary,600,5,Vulpini Middle,700,8,Ravine High,1100,6,11.983471074380168
+Green,3,1.5,1948.0,0.11,1997,townhouse,2,Yes,Yes,No,1176000,Oncilla Elementary,600,5,Vulpini Middle,700,8,River High,1000,10,40.654478671007595
+Green,1,1.0,638.0,0.1,1976,condo,1,No,No,Yes,766000,Wildcat Elementary,600,7,Hound Middle,850,7,Ravine High,1100,6,14.646464646464647
+Green,4,2.5,2794.0,0.38,1987,single-family home,1,No,Yes,No,1735000,Oncilla Elementary,600,5,Vulpini Middle,700,8,River High,1000,10,16.87931951089846
+Green,4,3.0,2820.0,0.38,1988,townhouse,1,,No,Yes,1092000,Oncilla Elementary,600,5,Hound Middle,850,7,Ravine High,1100,6,17.03639263447876
+Green,4,2.0,1830.0,0.38,2010,multi-family home,1,No,Yes,Yes,1666000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,11.05553139045962
+Green,4,3.0,1922.0,0.12,2014,multi-family home,2,Yes,No,Yes,1708000,Panther Elementary,700,8,Vulpini Middle,700,8,Ravine High,1100,6,36.76920722375268
+Green,4,1.0,2259.0,0.58,2002,condo,1,Yes,No,No,951000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,8.941293815901966
+Green,4,2.5,2759.0,0.33,1976,single-family home,1,Yes,No,No,1802000,Oncilla Elementary,600,5,Hound Middle,850,7,River High,1000,10,19.193310515624564
+Green,2,1.0,1211.0,0.17,1973,single-family home,1,No,No,No,1619000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,16.35337330524496
+Green,4,2.0,1662.0,0.2,1986,single-family home,1,Yes,Yes,No,1860000,Panther Elementary,700,8,Vulpini Middle,700,8,River High,1000,10,19.077134986225897
+Green,3,1.0,1436.0,0.6381381488581839,2006,single-family home,1,No,Yes,No,1711000,Wildcat Elementary,600,7,Vulpini Middle,700,8,River High,1000,10,
+Green,6,4.0,4716.0,0.28,1972,townhouse,2,No,No,No,1234000,Margay Elementary,600,6,Hound Middle,850,7,Ravine High,1100,6,38.66587957497048
+Green,3,1.5,1265.0,0.18,2016,single-family home,2,Yes,No,No,1653000,Oncilla Elementary,600,5,Vulpini Middle,700,8,Ravine High,1100,6,16.13355780022447
+Green,4,3.0,2676.0,0.19,1976,single-family home,2,No,No,No,1601000,Wildcat Elementary,600,7,Vulpini Middle,700,8,Ravine High,1100,6,32.332898361606496
+Green,4,2.5,1813.0,0.26,2004,condo,1,No,Yes,Yes,1045000,Panther Elementary,700,8,Vulpini Middle,700,8,Ravine High,1100,6,16.007981917072826
+Green,4,2.0,2046.0,0.16,2014,townhouse,2,Yes,No,No,1437000,Wildcat Elementary,600,7,Vulpini Middle,700,8,River High,1000,10,29.356060606060602
+Green,4,1.0,1681.0,0.35,2007,townhouse,1,No,No,No,1388000,Panther Elementary,700,8,Hound Middle,850,7,River High,1000,10,11.025842844024664
+Green,1,1.0,716.0,0.21,2011,townhouse,1,Yes,Yes,No,920000,Oncilla Elementary,600,5,Hound Middle,850,7,Ravine High,1100,6,7.827189645371463
+Blue,1,1.0,606.0,0.07,1976,multi-family home,1,Yes,No,No,1199000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,19.874065328610783
+Blue,4,1.0,1926.0,0.14,1973,townhouse,2,Yes,No,Yes,1219000,Savannah Elementary,800,3,Zorro Middle,600,8,Delta High,850,8,31.582054309327035
+Blue,4,2.0,2849.0,0.25,1944,single-family home,2,No,No,No,1569000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Delta High,850,8,26.161616161616163
+Blue,3,1.0,1847.0,0.3,2012,townhouse,1,Yes,No,No,906000,Caracal Elementary,900,9,Epicyon Middle,700,7,Channel High,850,4,14.13376186103459
+Blue,6,4.5,4436.0,0.85,1995,condo,1,No,Yes,No,1013000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Channel High,850,4,11.980770269540324
+Blue,4,1.5,2705.0,0.19,2001,condo,2,Yes,Yes,No,1024000,Kodkod Elementary,750,6,Zorro Middle,600,8,Delta High,850,8,32.68329225267024
+Blue,4,2.0,1945.0,0.12,1967,townhouse,2,No,No,No,1055000,Savannah Elementary,800,3,Epicyon Middle,700,7,Delta High,850,8,37.209213345576984
+Blue,3,1.5,1896.0,0.11,1968,single-family home,2,No,No,No,1424000,Sphynx Elementary,900,4,Zorro Middle,600,8,Delta High,850,8,39.56924618081643
+Blue,3,1.5,1316.0,0.1,1990,multi-family home,2,No,No,No,1408000,Sphynx Elementary,900,4,Zorro Middle,600,8,Channel High,850,4,30.21120293847567
+Blue,6,4.0,3755.0,0.24,1971,single-family home,2,No,No,No,1701000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Delta High,850,8,35.9178910315274
+Blue,6,4.5,3440.0,0.49,1989,condo,2,Yes,No,No,1029000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Channel High,850,4,16.11663949326287
+Blue,3,1.5,1655.0,0.21,2009,condo,1,Yes,Yes,No,973000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,18.09217718308627
+Blue,4,1.0,2276.0,0.4,1963,single-family home,1,No,No,Yes,1551000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Delta High,850,8,13.062442607897154
+Blue,4,1.5,1896.0,0.48,2000,single-family home,1,No,No,No,1693000,Sphynx Elementary,900,4,Zorro Middle,600,8,Delta High,850,8,9.067952249770432
+Blue,3,1.0,1643.0,0.19,2001,townhouse,2,No,Yes,Yes,956000,Caracal Elementary,900,9,Zorro Middle,600,8,Channel High,850,4,19.851626310956455
+Blue,6,4.5,5004.0,0.72,2011,townhouse,2,Yes,No,No,1260000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,15.95500459136823
+Blue,4,2.0,2412.0,0.28,1973,townhouse,2,No,No,No,1165000,Caracal Elementary,900,9,Raccoon Middle,800,5,Delta High,850,8,19.775678866587956
+Blue,1,1.0,675.0,0.14,1949,condo,1,No,No,No,468000,Caracal Elementary,900,9,Epicyon Middle,700,7,Channel High,850,4,11.068476977567885
+Blue,3,1.5,1961.0,0.19,1991,condo,2,No,Yes,No,876000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,23.693876564689965
+Blue,4,1.5,2821.0,0.27,1941,single-family home,2,No,No,Yes,1825000,Kodkod Elementary,750,6,Zorro Middle,600,8,Delta High,850,8,23.985647723021458
+Blue,2,1.0,1026.0,0.4559399308694267,1977,multi-family home,1,No,No,No,1307000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Delta High,850,8,
+Blue,3,2.0,1592.0,0.09,1952,single-family home,2,No,No,Yes,1210000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,40.60810121416182
+Blue,4,2.5,2133.0,0.35,1986,condo,1,Yes,No,No,960000,Savannah Elementary,800,3,Epicyon Middle,700,7,Delta High,850,8,13.99055489964581
+Blue,1,1.0,761.0,0.11,1985,multi-family home,1,Yes,Yes,No,1498000,Caracal Elementary,900,9,Epicyon Middle,700,7,Delta High,850,8,15.881960096836128
+Blue,3,2.0,1938.0,0.23,1982,townhouse,1,No,No,No,747000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,19.343633968139894
+Blue,3,1.5,1785.0,0.19,2015,single-family home,2,No,Yes,No,1420000,Savannah Elementary,800,3,Zorro Middle,600,8,Channel High,850,4,21.567348122372046
+Blue,1,1.0,755.0,0.19,1959,multi-family home,1,No,No,No,1438000,Caracal Elementary,900,9,Zorro Middle,600,8,Delta High,850,8,9.122323715625152
+Blue,1,1.0,567.0,0.11,1943,multi-family home,1,No,No,Yes,1232000,Savannah Elementary,800,3,Zorro Middle,600,8,Channel High,850,4,11.833208114199849
+Blue,4,3.0,2424.0,0.21,1993,multi-family home,2,Yes,No,No,1435000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Channel High,850,4,26.49875377148104
+Blue,6,3.5,5002.0,0.64,1952,townhouse,1,No,No,No,1065000,Caracal Elementary,900,9,Zorro Middle,600,8,Channel High,850,4,17.942206152433425
+Blue,4,2.0,1923.0,0.32,1959,single-family home,1,No,No,No,1364000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Channel High,850,4,13.795626721763085
+Blue,1,1.0,784.0,0.11,2005,multi-family home,1,No,No,No,1362000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,16.361966775189916
+Blue,5,2.5,3526.0,0.51,1955,single-family home,1,No,No,No,1571000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Delta High,850,8,15.87172977547309
+Blue,1,1.0,615.0,0.09,1964,townhouse,1,No,No,No,865000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,15.68717477808387
+Blue,4,2.5,2507.0,0.32,2016,condo,2,No,No,Yes,1004000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,17.98525022956841
+Blue,6,3.0,3453.0,1.5344645041833627,1967,multi-family home,2,No,No,Yes,1593000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,
+Blue,3,1.0,1773.0,0.21,1978,single-family home,1,Yes,No,No,1303000,Sphynx Elementary,900,4,Zorro Middle,600,8,Channel High,850,4,19.382133018496653
+Blue,4,1.0,2454.0,0.35,1962,single-family home,1,No,No,No,1232000,Sphynx Elementary,900,4,Zorro Middle,600,8,Channel High,850,4,16.09602518693428
+Blue,5,3.0,2926.0,0.22,1980,single-family home,2,Yes,No,No,1441000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Delta High,850,8,30.532598714416892
+Blue,1,1.0,731.0,0.09,1958,multi-family home,1,No,No,Yes,1190000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,18.646056524844408
+Blue,4,1.5,2788.0,0.64,1994,multi-family home,1,No,No,No,1681000,Caracal Elementary,900,9,Epicyon Middle,700,7,Delta High,850,8,10.000573921028465
+Blue,3,1.0,1848.0,0.39,1980,single-family home,1,Yes,No,No,1271000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,10.878010878010876
+Blue,4,2.0,2124.0,0.38,1988,single-family home,1,Yes,No,No,1574000,Savannah Elementary,800,3,Zorro Middle,600,8,Delta High,850,8,12.831665941713787
+Blue,5,3.5,2564.0,0.39,2008,single-family home,1,No,Yes,No,1842000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Delta High,850,8,15.09265145628782
+Blue,4,1.0,2870.0,0.55,1957,single-family home,1,No,No,Yes,1323000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,11.979297103264043
+Blue,5,3.5,2623.0,0.4,2004,condo,1,No,No,Yes,1058000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Channel High,850,4,15.053948576675849
+Blue,4,1.5,2892.0,0.74,1991,condo,?,No,No,No,1178000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Delta High,850,8,8.971781699054427
+Blue,3,2.0,2131.0,0.13,1961,single-family home,2,No,No,Yes,1237000,Caracal Elementary,900,9,Epicyon Middle,700,7,Channel High,850,4,37.631560358833084
+Blue,3,2.0,1507.0,0.2,1953,single-family home,1,No,No,No,1309000,Sphynx Elementary,900,4,Zorro Middle,600,8,Channel High,850,4,17.2979797979798
+Blue,4,1.5,2701.0,0.16,1980,single-family home,2,Yes,No,No,1411000,Savannah Elementary,800,3,Zorro Middle,600,8,Channel High,850,4,38.75401744719926
+Blue,6,5.0,5097.0,1.3,1981,single-family home,1,Yes,No,Yes,1762000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,9.000847637211272
+Blue,3,1.0,1349.0,0.12,2011,townhouse,2,No,No,No,855000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Channel High,850,4,25.807315580042854
+Blue,3,2.0,1784.0,0.23,1960,single-family home,1,No,No,Yes,1536000,Caracal Elementary,900,9,Zorro Middle,600,8,Delta High,850,8,17.80652373537749
+Blue,1,1.0,702.0,0.08,1951,multi-family home,1,No,No,No,1158000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Delta High,850,8,20.144628099173552
+Blue,1,1.0,813.0,0.1,2014,multi-family home,1,No,No,No,1563000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Delta High,850,8,18.663911845730027
+Blue,3,1.5,1879.0,0.27,2005,townhouse,2,Yes,No,No,1032000,Savannah Elementary,800,3,Zorro Middle,600,8,Delta High,850,8,15.976260925755875
+Blue,4,1.5,2683.0,0.31,1958,townhouse,1,No,No,No,791000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,19.868775733878373
+Blue,1,1.0,798.0,0.1,1978,single-family home,1,No,No,No,1331000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Delta High,850,8,18.319559228650135
+Blue,4,3.0,2266.0,0.27,1994,single-family home,1,Yes,Yes,No,1494000,Caracal Elementary,900,9,Zorro Middle,600,8,Delta High,850,8,19.26674148896371
+Blue,2,1.0,975.0,0.22,1988,condo,1,No,No,No,737000,Caracal Elementary,900,9,Zorro Middle,600,8,Channel High,850,4,10.174054595542199
+Blue,4,1.0,2451.0,0.28,1967,townhouse,2,No,No,No,886000,Caracal Elementary,900,9,Zorro Middle,600,8,Channel High,850,4,20.09543486816214
+Blue,4,3.0,3013.0,0.22,1972,single-family home,2,Yes,No,Yes,1639000,Savannah Elementary,800,3,Zorro Middle,600,8,Channel High,850,4,31.440437432172967
+Blue,4,3.0,1782.0,0.24,2001,single-family home,1,No,No,No,1651000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Delta High,850,8,17.045454545454547
+Blue,3,1.0,1613.0,0.46,1957,multi-family home,1,No,No,No,1503000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Delta High,850,8,8.049866251447279
+Blue,2,1.0,1341.0,0.21,1942,condo,1,No,No,No,515000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,14.659582841401022
+Blue,2,1.0,1292.0,0.25,1999,condo,1,No,No,Yes,746000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,11.864095500459136
+Blue,1,1.0,678.0,0.1,1981,single-family home,1,Yes,No,Yes,1358000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Delta High,850,8,15.564738292011018
+Blue,4,3.0,2456.0,0.18,1976,single-family home,2,No,No,No,1621000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Delta High,850,8,31.32333435363739
+Blue,1,1.0,688.0,0.14,1993,single-family home,1,No,Yes,No,1345000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,11.281647645284009
+Blue,2,1.0,914.0,0.4061687103456686,1986,condo,1,Yes,Yes,Yes,696000,Sphynx Elementary,900,4,Zorro Middle,600,8,Channel High,850,4,
+Blue,2,1.0,908.0,0.13,2008,single-family home,1,No,No,No,1506000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,16.034470579925124
+Blue,2,1.0,1025.0,0.24,1953,townhouse,1,No,No,No,677000,Caracal Elementary,900,9,Epicyon Middle,700,7,Channel High,850,4,9.804484236302418
+Blue,4,1.0,2257.0,0.35,1976,townhouse,1,No,No,Yes,833000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Channel High,850,4,14.80388298570117
+Blue,3,1.0,1283.0,0.09,2003,townhouse,2,Yes,No,No,897000,Caracal Elementary,900,9,Zorro Middle,600,8,Channel High,850,4,32.72625242322212
+Blue,1,1.0,638.0,0.15,1988,single-family home,1,Yes,No,No,1373000,Kodkod Elementary,750,6,Zorro Middle,600,8,Delta High,850,8,9.764309764309765
+Blue,4,1.5,2363.0,0.27,1974,condo,2,Yes,No,Yes,976000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,20.09148726320443
+Blue,4,1.5,2205.0,0.34,2006,condo,1,No,Yes,No,1089000,Savannah Elementary,800,3,Epicyon Middle,700,7,Delta High,850,8,14.888186679630527
+Blue,4,2.0,2399.0,0.42,1963,condo,1,No,No,No,766000,Caracal Elementary,900,9,Raccoon Middle,800,5,Channel High,850,4,13.11272902181993
+Blue,2,1.0,1121.0,0.21,1961,single-family home,1,No,No,Yes,1326000,Caracal Elementary,900,9,Zorro Middle,600,8,Channel High,850,4,12.254580436398617
+Blue,3,1.5,2134.0,0.49,2003,single-family home,1,Yes,Yes,No,1382000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,9.997938569367141
+Blue,3,1.5,1836.0,0.35,1950,condo,1,No,No,Yes,836000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Delta High,850,8,12.042502951593862
+Blue,2,1.0,1268.0,0.17,2008,condo,1,Yes,No,No,907000,Caracal Elementary,900,9,Raccoon Middle,800,5,Delta High,850,8,17.12310268460001
+Blue,1,1.0,594.0,0.17,1986,multi-family home,1,No,Yes,No,1449000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Delta High,850,8,8.021390374331549
+Blue,1,1.0,696.0,0.08,2000,single-family home,1,No,No,No,1264000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,19.97245179063361
+Blue,3,2.0,1535.0,0.29,1965,condo,1,No,No,Yes,961000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Delta High,850,8,12.151293499255882
+Blue,2,1.0,1098.0,0.17,1940,single-family home,1,No,No,No,1213000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,14.827418570734077
+Blue,4,2.0,2084.0,0.48,2003,single-family home,1,No,No,No,1603000,Sphynx Elementary,900,4,Zorro Middle,600,8,Channel High,850,4,9.967095194367923
+Blue,3,1.0,1715.0,0.23,1978,condo,1,Yes,No,Yes,782000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Delta High,850,8,17.11781850121771
+Blue,2,1.0,1206.0,0.15,1975,townhouse,1,No,No,No,648000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Channel High,850,4,18.457300275482094
+Blue,3,1.0,1339.0,0.2,1940,condo,1,No,No,Yes,595000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,15.369605142332416
+Blue,1,1.0,724.0,0.17,1973,single-family home,1,No,No,Yes,1108000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Channel High,850,4,9.776913520229028
+Blue,5,3.0,2653.0,0.47,1958,townhouse,1,No,No,Yes,978000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Channel High,850,4,12.958404157630465
+Blue,4,2.5,2560.0,0.37,2009,single-family home,1,No,Yes,No,1456000,Caracal Elementary,900,9,Epicyon Middle,700,7,Channel High,850,4,15.883652247288612
+Blue,4,3.0,2280.0,0.17,1950,single-family home,2,No,No,Yes,1415000,Caracal Elementary,900,9,Raccoon Middle,800,5,Delta High,850,8,30.78917517420191
+Blue,1,1.0,615.0,0.14,1945,townhouse,1,No,No,No,642000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Delta High,850,8,10.08461235733963
+Blue,2,1.0,958.0,0.16,1961,multi-family home,1,No,No,No,1303000,Caracal Elementary,900,9,Zorro Middle,600,8,Delta High,850,8,13.745408631772268
+Blue,6,3.5,3145.0,1.3975936477430282,1955,townhouse,2,No,No,Yes,901000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Channel High,850,4,
+Blue,5,2.0,3322.0,0.51,1978,townhouse,1,Yes,No,No,897000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Channel High,850,4,14.953456129926717
+Blue,4,2.0,2272.0,0.16,1993,single-family home,2,No,No,No,1361000,Savannah Elementary,800,3,Zorro Middle,600,8,Channel High,850,4,32.598714416896236
+Blue,4,1.5,2092.0,0.37,1972,single-family home,1,Yes,No,No,1486000,Savannah Elementary,800,3,Epicyon Middle,700,7,Delta High,850,8,12.979922070831162
+Blue,4,1.0,2307.0,0.31,2001,single-family home,1,,No,No,1355000,Savannah Elementary,800,3,Zorro Middle,600,8,Channel High,850,4,17.08433306673776
+Blue,3,1.0,1806.0,0.11,1973,townhouse,2,Yes,No,No,958000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Delta High,850,8,37.69095917856248
+Blue,1,1.0,693.0,0.13,1973,townhouse,1,No,,Yes,775000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,12.237762237762237
+Blue,6,3.5,3247.0,0.83,1978,single-family home,1,No,No,No,1990000,Caracal Elementary,900,9,Raccoon Middle,800,5,Delta High,850,8,8.98082688882251
+Blue,4,1.5,1714.0,0.14,1978,condo,2,No,No,Yes,1048000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Delta High,850,8,28.105732651187193
+Blue,4,1.0,2259.0,0.31,1968,single-family home,1,No,No,Yes,1279000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,16.728872300719807
+Blue,6,3.0,2865.0,0.6,1976,single-family home,1,Yes,No,No,1608000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,10.961891643709826
+Blue,1,1.0,647.0,0.08,2016,townhouse,1,No,Yes,No,809000,Kodkod Elementary,750,6,Epicyon Middle,700,7,Channel High,850,4,18.566345270890725
+Blue,2,1.0,1014.0,0.17,1957,single-family home,1,No,No,Yes,1154000,Caracal Elementary,900,9,Raccoon Middle,800,5,Channel High,850,4,13.693080538000324
+Blue,3,1.5,1281.0,0.08,1970,multi-family home,2,No,No,No,1445000,Caracal Elementary,900,9,Epicyon Middle,700,7,Delta High,850,8,36.759641873278234
+Blue,4,3.0,1839.0,0.38,2004,multi-family home,1,No,No,No,1568000,Caracal Elementary,900,9,Raccoon Middle,800,5,Delta High,850,8,11.10990285631434
+Blue,5,3.5,3268.0,0.22,1985,townhouse,2,No,Yes,No,1248000,Caracal Elementary,900,9,Zorro Middle,600,8,Delta High,850,8,34.101344018699386
+Blue,3,1.5,1530.0,0.18,1991,condo,1,Yes,No,No,760000,Caracal Elementary,900,9,Zorro Middle,600,8,Channel High,850,4,19.513314967860424
+Blue,3,1.0,1944.0,0.8638861848052295,1978,multi-family home,1,No,No,Yes,1326000,Caracal Elementary,900,9,Zorro Middle,600,8,Delta High,850,8,
+Blue,1,1.0,599.0,0.17,1966,townhouse,1,No,No,No,671000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,8.088910495327607
+Blue,2,1.0,1028.0,0.17,2001,condo,1,Yes,No,No,913000,Savannah Elementary,800,3,Zorro Middle,600,8,Delta High,850,8,13.88213687678928
+Blue,6,4.5,4226.0,0.61,1984,single-family home,2,Yes,No,Yes,1738000,Caracal Elementary,900,9,Raccoon Middle,800,5,Delta High,850,8,15.904198467536771
+Blue,4,2.5,1941.0,0.25,1944,condo,?,No,No,No,809000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,17.823691460055098
+Blue,6,4.5,5011.0,0.82,2017,single-family home,1,Yes,No,No,1763000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,14.028869627539251
+Blue,6,4.0,4366.0,0.29,2009,townhouse,2,No,No,No,1090000,Savannah Elementary,800,3,Epicyon Middle,700,7,Channel High,850,4,34.56192014185745
+Blue,6,3.5,4731.0,0.68,1968,single-family home,2,No,No,Yes,1822000,Caracal Elementary,900,9,Raccoon Middle,800,5,Delta High,850,8,15.97188462161724
+Blue,5,3.5,3170.0,0.43,1953,condo,1,No,No,No,905000,Kodkod Elementary,750,6,Raccoon Middle,800,5,Delta High,850,8,16.923996839430245
+Blue,4,2.0,2448.0,0.2,2011,single-family home,2,No,No,No,1609000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,28.09917355371901
+Blue,3,1.5,1515.0,0.1,2003,single-family home,2,Yes,No,No,1497000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Delta High,850,8,34.77961432506887
+Blue,1,1.0,583.0,0.15,2013,single-family home,1,No,Yes,No,1326000,Sphynx Elementary,900,4,Raccoon Middle,800,5,Channel High,850,4,8.922558922558922
+Blue,6,4.0,3696.0,0.3,1967,condominium,2,No,No,No,847000,Caracal Elementary,900,9,Raccoon Middle,800,5,Channel High,850,4,28.28282828282828
+Blue,5,2.0,2439.0,0.33,2000,multi-family home,1,No,Yes,No,1583000,Kodkod Elementary,750,6,Zorro Middle,600,8,Channel High,850,4,16.967192587027295
+Blue,1,1.0,714.0,0.13,1986,single-family home,1,No,No,No,1352000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,12.608603517694425
+Blue,3,1.0,1763.0,0.37,2008,townhouse,1,Yes,Yes,Yes,1211000,Caracal Elementary,900,9,Epicyon Middle,700,7,Delta High,850,8,10.938624574988213
+Blue,4,3.0,2872.0,0.66,2007,townhouse,1,Yes,Yes,No,1267000,Kodkod Elementary,750,6,Zorro Middle,600,8,Delta High,850,8,9.989704204580237
+Blue,4,1.5,1795.0,0.21,2013,single-family home,2,No,Yes,Yes,1570000,Sphynx Elementary,900,4,Zorro Middle,600,8,Channel High,850,4,19.622633258996895
+Blue,4,2.0,2690.0,0.21,1978,single-family home,2,Yes,No,No,1652000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,29.406620315711223
+Blue,4,1.5,2661.0,0.23,1977,single-family home,2,No,No,Yes,1455000,Savannah Elementary,800,3,Raccoon Middle,800,5,Channel High,850,4,26.56006707390106
+Blue,5,2.0,2514.0,0.29,2008,single-family home,2,Yes,Yes,No,1700000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,19.9012064215826
+Blue,3,2.0,1996.0,0.13,1991,single-family home,2,Yes,No,No,1362000,Sphynx Elementary,900,4,Epicyon Middle,700,7,Channel High,850,4,35.24758070212616
+Blue,4,2.0,2757.0,0.16,2012,condo,2,No,Yes,Yes,1097000,Savannah Elementary,800,3,Raccoon Middle,800,5,Delta High,850,8,39.55750688705234
+Purple,4,2.5,2781.0,0.21,1956,condo,2,No,No,Yes,718000,Savannah Elementary,800,3,Panda Middle,500,6,Glacier High,1050,3,30.40141676505313
+Purple,3,1.5,1728.0,0.36,1978,single-family home,1,No,No,No,1222000,Savannah Elementary,800,3,Panda Middle,500,6,Glacier High,1050,3,11.019283746556475
+Purple,6,3.0,3924.0,0.23,1983,condo,2,No,No,Yes,1055000,Savannah Elementary,800,3,Panda Middle,500,6,Glacier High,1050,3,39.16636722960833
+Gold,4,1.5,2839.0,0.34,2004,townhouse,1,No,No,No,1319000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,19.16896235078053
+Gold,4,1.0,2228.0,0.57,1999,single-family home,1,No,Yes,No,1923000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,8.973305624023329
+Gold,6,5.0,3770.0,0.29,1990,multi-family home,2,No,No,No,1907000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,29.843893480257115
+Gold,4,2.5,2783.0,0.27,1980,townhouse,2,No,No,No,1300000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,23.662551440329217
+Gold,4,3.0,2381.0,0.55,1980,townhouse,1,No,No,No,1328000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,9.938225227481425
+Gold,2,1.0,1342.0,0.26,2016,multi-family home,1,No,Yes,No,1951000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,11.84926184926185
+Gold,4,2.5,2662.0,0.34,2010,single-family home,1,No,Yes,Yes,1992000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,17.973856209150323
+Gold,4,2.5,2598.0,0.18,1978,single-family home,2,Yes,No,No,1798000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,33.13437404346495
+Gold,5,3.5,3814.0,0.4,1980,single-family home,2,Yes,No,No,1676000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,21.889348025711662
+Gold,4,1.5,2857.0,0.22,1985,condo,2,Yes,Yes,No,1288000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,29.812588696886216
+Gold,4,2.5,1941.0,0.41,1982,single-family home,1,Yes,Yes,No,1977000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,10.868104548814085
+Gold,3,2.0,2083.0,0.48,1985,multi-family home,1,No,No,Yes,1646000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,9.962312519130702
+Gold,6,3.5,3814.0,0.52,1989,single-family home,1,Yes,No,Yes,2159000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,16.8379600197782
+Gold,5,3.0,2650.0,0.36,1989,single-family home,1,Yes,Yes,No,1753000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,16.898785838179776
+Gold,4,3.0,2642.0,0.19,1979,townhouse,2,No,No,No,1260000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,31.92209173070417
+Gold,4,2.0,2265.0,0.4,1986,single-family home,1,Yes,No,No,1774000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,12.999311294765839
+Gold,4,1.5,2556.0,0.23,2017,multi-family home,2,Yes,No,No,1889000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,25.512037369744878
+Gold,4,2.0,2780.0,0.21,2013,townhouse,2,No,No,No,1327000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,30.390484935939483
+Gold,1,1.0,787.0,0.3497317013589072,1996,single-family home,1,Yes,Yes,No,1375000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,
+Gold,3,1.5,1520.0,0.16,2016,condo,2,Yes,No,Yes,1262000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,21.808999081726355
+Gold,4,1.0,2098.0,0.3,1974,townhouse,2,No,No,No,1347000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,16.054484236302418
+Gold,4,2.0,2883.0,0.41,1998,townhouse,2,No,Yes,No,1349000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,16.142578781159713
+Gold,1,1.0,681.0,0.09,2008,single-family home,1,Yes,No,No,1731000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,17.370676461585553
+Gold,2,1.0,1169.0,0.21,2001,single-family home,1,Yes,No,No,1771000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,12.779308233853687
+Gold,6,4.0,4051.0,0.36,2015,single-family home,2,No,Yes,No,2393000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,25.832823181308033
+Gold,4,3.0,2398.0,0.16,1974,single-family home,2,No,No,Yes,1707000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,34.40656565656566
+Gold,4,2.0,1876.0,0.14,1988,condo,2,Yes,No,No,1294000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,30.762167125803487
+Gold,3,2.0,2066.0,0.2,1989,townhouse,2,No,Yes,No,1415000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,23.714416896235075
+Gold,3,1.5,1565.0,0.24,2014,single-family home,1,Yes,No,No,1905000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,14.969773492500765
+Gold,1,1.0,817.0,0.17,2003,single-family home,1,No,No,No,1685000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,11.032787770755684
+Gold,3,1.0,1254.0,0.36,2008,single-family home,1,Yes,Yes,No,1913000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,7.996632996632997
+Gold,1,1.0,658.0,0.14,1983,townhouse,1,Yes,Yes,Yes,980000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,10.789715335169879
+Gold,2,1.0,1065.0,0.14,1979,single-family home,?,No,No,No,1606000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,17.463597009051554
+Gold,6,3.5,3907.0,0.3,1998,condo,2,Yes,Yes,No,1405000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,29.897459442913988
+Gold,4,2.0,2112.0,0.4,2002,condo,1,No,,No,1189000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,12.121212121212121
+Gold,6,4.0,3131.0,0.72,2006,condo,1,Yes,Yes,No,1542000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,9.983037445158658
+Gold,5,3.0,3082.0,0.79,1978,single-family home,1,No,No,No,1619000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,8.956073973335192
+Gold,3,2.0,1481.0,0.28,2018,single-family home,1,No,No,No,1629000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,12.142529187983731
+Gold,1,1.0,723.0,0.18,1975,condo,1,Yes,No,Yes,993000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,9.220997857361494
+Gold,3,1.0,1408.0,0.1,1998,multi-family home,2,Yes,Yes,No,1564000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,32.323232323232325
+Gold,3,2.0,1541.0,0.09,2002,single-family home,2,Yes,Yes,No,1708000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,39.3072135496378
+Gold,3,2.0,1936.0,0.14,2017,single-family home,2,Yes,Yes,Yes,2022000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,31.746031746031743
+Gold,6,4.0,4087.0,0.26,1997,single-family home,2,No,No,No,1980000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,36.08638835911563
+Gold,4,2.5,2389.0,0.39,2009,single-family home,1,Yes,No,No,1863000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,14.062536789809515
+Gold,4,2.0,1809.0,0.21,2014,townhouse,2,No,Yes,No,1323000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,19.775678866587956
+Gold,4,1.0,1803.0,0.23,2012,single-family home,2,Yes,No,No,1690000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,17.996167205653368
+Gold,4,1.5,2176.0,0.25,1977,single-family home,1,Yes,No,No,1769000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,19.981634527089074
+Gold,4,3.0,1888.0,0.48,1992,single-family home,1,Yes,Yes,No,1790000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,9.029690847872667
+Gold,6,4.0,3484.0,0.22,1995,townhouse,2,Yes,No,Yes,1522000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,36.35528842140412
+Gold,5,2.0,2450.0,1.088745448957208,1991,condo,1,Yes,No,No,1311000,Birman Elementary,700,9,Sloth Middle,600,9,Avalanche High,1000,10,
+Gold,3,1.5,1259.0,0.08,1997,single-family home,2,Yes,No,No,1719000,Munchkin Elementary,800,8,Sloth Middle,600,9,Avalanche High,1000,10,36.128328741965106
+Silver,4,2.0,2224.0,0.15,1940,single-family home,2,No,No,Yes,1719000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,34.03734312825222
+Silver,1,1.0,737.0,0.19,1959,single-family home,1,No,No,Yes,1369000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,8.904837852206274
+Silver,5,3.5,3920.0,0.64,1945,single-family home,1,No,No,No,1705000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,14.061065197428832
+Silver,4,1.0,1706.0,0.12,1977,multi-family home,2,No,No,,1306000,Korat Elementary,700,8,Panda Middle,500,6,Blizzard High,1200,5,32.636975818794
+Silver,3,1.5,1988.0,0.46,1955,single-family home,1,No,No,No,1327000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,9.921347866011896
+Silver,2,1.0,912.0,0.12,1942,single-family home,1,No,No,Yes,1429000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,17.447199265381084
+Silver,4,1.5,2672.0,0.31,1946,multi-family home,2,No,No,Yes,1310000,Korat Elementary,700,8,Panda Middle,500,6,Blizzard High,1200,5,19.78731597499926
+Silver,6,3.0,3238.0,0.25,1943,condo,2,No,No,Yes,1200000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,29.73370064279155
+Silver,4,2.5,2660.0,0.38,1941,townhouse,1,No,No,No,952000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,16.069788797061523
+Silver,3,2.0,2054.0,0.24,1960,townhouse,1,No,No,Yes,866000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,19.647229874502603
+Silver,1,1.0,657.0,0.11,1963,single-family home,1,No,No,No,1430000,Korat Elementary,700,8,Panda Middle,500,6,Moraine High,1000,9,13.711495116453792
+Silver,6,4.5,4938.0,0.63,1975,single-family home,?,No,No,No,1563000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,17.993790721063448
+Silver,4,3.0,2029.0,0.14,1951,condo,2,No,No,No,795000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,33.27102190738554
+Silver,3,2.0,1515.0,0.09,1958,single-family home,2,No,No,No,1283000,Ocicat Elementary,750,4,Bear Middle,700,7,Blizzard High,1200,5,38.64401591674319
+Silver,1,1.0,634.0,0.1,1959,multi-family home,1,No,No,No,1105000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,14.55463728191001
+Silver,3,1.5,1504.0,0.17,1963,single-family home,2,No,No,No,1404000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,20.31005239561389
+Silver,4,1.0,2287.0,0.2,1963,condo,2,No,No,No,808000,Ocicat Elementary,750,4,Bear Middle,700,7,Blizzard High,1200,5,26.25114784205693
+Silver,4,3.0,2001.0,0.13,1958,single-family home,2,No,No,Yes,1648000,Korat Elementary,700,8,Panda Middle,500,6,Moraine High,1000,9,35.33587624496715
+Silver,4,2.5,2247.0,0.26,1959,condo,1,No,No,Yes,977000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,19.840008476372113
+Silver,4,1.0,1922.0,0.29,1977,single-family home,1,No,No,No,1683000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,15.214844368449384
+Silver,6,3.0,4293.0,0.31,1970,townhouse,2,No,No,No,935000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,31.79152226073047
+Silver,6,5.0,4403.0,0.39,1979,single-family home,2,No,No,Yes,1602000,Korat Elementary,700,8,Panda Middle,500,6,Blizzard High,1200,5,25.9176850085941
+Silver,6,4.5,5013.0,0.29,1965,single-family home,2,No,No,No,1886000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,39.68367056141351
+Silver,5,3.5,3491.0,0.24,1979,single-family home,2,No,No,No,1541000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,33.39263850627487
+Silver,2,1.0,1166.0,0.24,1971,condo,1,Yes,No,No,843000,Korat Elementary,700,8,Panda Middle,500,6,Moraine High,1000,9,11.153198653198654
+Silver,6,3.0,3476.0,0.28,1942,multi-family home,2,No,No,Yes,1598000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,28.499278499278496
+Silver,3,1.5,1616.0,0.14,1966,single-family home,2,No,No,Yes,1566000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,26.49875377148104
+Silver,1,1.0,651.0,0.12,1967,condo,1,No,No,No,627000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,12.454086317722682
+Silver,3,1.5,2037.0,0.12,1948,single-family home,2,No,No,No,1214000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,38.9692378328742
+Silver,4,1.5,2062.0,0.43,1940,single-family home,1,No,No,Yes,1541000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,11.008606146026866
+Silver,5,3.0,3763.0,0.51,1956,condo,1,No,No,No,911000,Ocicat Elementary,750,4,Bear Middle,700,7,Blizzard High,1200,5,16.938547687210786
+Silver,6,4.5,3144.0,0.45,1971,single-family home,2,No,No,No,1765000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,16.03917967554331
+Silver,4,3.0,2601.0,0.3,1952,condo,1,No,No,No,764000,Ocicat Elementary,750,4,Bear Middle,700,7,Blizzard High,1200,5,19.903581267217632
+Silver,3,2.0,1350.0,0.34,1944,single-family home,1,No,No,Yes,1351000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,9.11521633446767
+Silver,1,1.0,769.0,0.11,1945,condo,1,No,No,No,543000,Korat Elementary,700,8,Panda Middle,500,6,Blizzard High,1200,5,16.048918941480924
+Silver,6,3.0,3052.0,0.54,1940,single-family home,1,No,No,Yes,1683000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,12.974866510220046
+Silver,2,1.0,1196.0,0.34,1953,multi-family home,1,No,No,Yes,1228000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,8.075406471128394
+Silver,4,2.0,2357.0,0.6,1969,multi-family home,1,No,No,No,1567000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,9.018212427303336
+Silver,4,1.5,2382.0,0.14,1956,single-family home,2,No,No,Yes,1369000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,39.05942542306178
+Silver,4,1.5,2113.0,0.3,1947,single-family home,2,No,No,Yes,1359000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,16.169268441995715
+Silver,2,1.0,1165.0,0.18,1945,multi-family home,1,No,No,No,1474000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,14.858177736965617
+Silver,4,2.0,2322.0,0.38,1963,condo,1,No,No,No,791000,Ocicat Elementary,750,4,Bear Middle,700,7,Blizzard High,1200,5,14.027838190517617
+Silver,4,2.0,2245.0,0.23,1980,condo,2,Yes,No,No,741000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,22.40787319838703
+Silver,4,1.5,2839.0,0.36,1977,town house,2,No,No,No,908000,Korat Elementary,700,8,Panda Middle,500,6,Blizzard High,1200,5,18.104019997959394
+Silver,5,2.0,3601.0,0.21,1980,townhouse,2,No,No,No,1297000,Korat Elementary,700,8,Panda Middle,500,6,Moraine High,1000,9,39.36551663824391
+Silver,3,1.5,1197.0,0.07,1963,townhouse,2,No,No,Yes,958000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,39.256198347107436
+Silver,3,1.0,1964.0,0.11,1945,single-family home,2,No,No,No,1452000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,40.98839636029719
+Silver,4,3.0,2706.0,0.28,1941,single-family home,2,No,No,No,1223000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,22.186147186147185
+Silver,6,4.0,3276.0,0.42,1950,condo,1,No,No,No,957000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,17.90633608815427
+Silver,4,1.0,2503.0,0.29,1957,single-family home,1,No,No,Yes,1458000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,19.814128748298028
+Silver,5,2.5,3212.0,0.28,1953,condo,2,No,No,Yes,833000,Ocicat Elementary,750,4,Bear Middle,700,7,Blizzard High,1200,5,26.334776334776333
+Silver,4,2.0,2963.0,0.45,1964,single-family home,1,No,No,Yes,1708000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,15.115804509743905
+Silver,2,1.0,911.0,0.15,1961,multi-family home,1,,No,No,1299000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,13.94245485154576
+Silver,2,1.0,1216.0,0.2,1956,single-family home,1,No,No,No,1281000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,13.957759412304869
+Silver,6,4.0,3628.0,0.38,1954,single-family home,2,No,No,Yes,1560000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,21.917742013435795
+Silver,1,1.0,764.0,0.13,1950,townhouse,1,No,No,Yes,896000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,13.491558946104401
+Silver,3,1.5,1481.0,0.18,1974,townhouse,1,No,No,No,775000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,18.888378736863586
+Silver,3,1.5,1638.0,0.47,1980,multi-family home,1,Yes,No,No,1597000,Korat Elementary,700,8,Panda Middle,500,6,Moraine High,1000,9,8.000703358537017
+Silver,4,2.0,2367.0,0.34,1966,multi-family home,1,No,No,No,1659000,Ocicat Elementary,750,4,Bear Middle,700,7,Moraine High,1000,9,15.98201263976665
+Silver,1,1.0,824.0,0.1,1945,townhouse,1,No,No,No,832000,Ocicat Elementary,750,4,Panda Middle,500,6,Moraine High,1000,9,18.91643709825528
+Silver,1,1.0,671.0,0.19,1964,single-family home,1,No,No,No,1131000,Korat Elementary,700,8,Panda Middle,500,6,Blizzard High,1200,5,8.107389686337054
+Silver,3,1.0,1631.0,0.13,1966,single-family home,2,No,No,No,1220000,Korat Elementary,700,8,Bear Middle,700,7,Blizzard High,1200,5,28.802006074733345
+Silver,3,1.0,1714.0,0.13,1967,single-family home,2,No,No,No,1622000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,30.267712085893905
+Silver,4,2.5,2560.0,0.21,1977,condo,2,Yes,No,No,1143000,Korat Elementary,700,8,Bear Middle,700,7,Moraine High,1000,9,27.985482530937077
+Silver,4,2.5,2035.0,0.19,1949,single-family home,2,No,No,No,1368000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,24.587985114300906
+Silver,6,5.0,4260.0,0.33,1977,single-family home,2,Yes,No,No,1619000,Ocicat Elementary,750,4,Panda Middle,500,6,Blizzard High,1200,5,29.63519492445112
