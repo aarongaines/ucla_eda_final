@@ -15,7 +15,7 @@ The repository is structured as follows:
     - *joined.csv* -- The cleaned data file including missing values and outliers.
     - *schools.csv* -- Raw data file.
 
-- `notebooks/` -- Jupyter notebooks used for data cleaning and initial analysis.
+- `notebooks/` -- Jupyter notebook and R file used for data cleaning and analysis.
     - *annot_eda.R* -- R notebook with annotated EDA used in final report.
     - *join_clean.ipynb* -- Jupyter notebook used to join and clean the data.
 
